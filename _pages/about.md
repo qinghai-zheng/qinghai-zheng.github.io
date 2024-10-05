@@ -30,7 +30,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 <details>
   <summary>More</summary>
-  
+
   - *2023.12.17*: &nbsp;🎉🎉 100 citations is achieved by my first paper: "Feature concatenation multi-view subspace clustering".
   - *2023.12.04*: &nbsp;🎉🎉 One paper "IMVC-IE" is accepted by ICASSP 2024 (CCF B). Congratulations to Binqiang Huang, good work! The source codes will be released soon.
   - *2023.12.03*: &nbsp;🎉🎉 One paper "DV-MSC" was accepted by KBS. Congratulations to Shoujie Lan, good work! The source codes will be released soon.
