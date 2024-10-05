@@ -18,7 +18,7 @@ I am now working on ***Unsupervised Multi-view Learning*** and ***Label Distribu
 
 I have published 30+ papers <a href='https://scholar.google.com/citations?user=GoV2wB0AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fqinghai-zheng%2Fqinghai-zheng.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences and journals, such as CVPR, AAAI, ACM MM, IEEE TKDE, and IEEE TCSVT. I also serve as reviewers for top conferences and journals, including CVPR, AAAI, ACM MM, IEEE TIP, IEEE TKDE, and IEEE TCSVT.
 
-If you are seeking any form of ***academic cooperation***, please feel free to email me at [zhengqinghai@fzu.eud.cn](mailto:zhengqinghai@fzu.edu.cn). 
+If you are seeking any form of ***academic cooperation***, please feel free to email me at [zhengqinghai@fzu.edu.cn](mailto:zhengqinghai@fzu.edu.cn). 
 
 # 🔥 News
 - 2024.09.23: &nbsp;🎉 The source codes of "TRC-IMC" can be found in [TRC-IMC](https://github.com/qinghai-zheng/TRC-IMC) repository.
