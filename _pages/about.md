@@ -61,4 +61,4 @@ To be done!
 # 💬 Invited Talks
 - *2023.07*, Research on Label Enhancement, Xi'an. \| [\[Slide\]](../slides/20230702_LE.pdf)
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&m=7&c=e63100&cr1=ffffff&f=arial&l=0&bv=90&lx=-420&ly=420&hi=20&he=7&hc=a8ddff&rs=80" async="async"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54h92zgamqk&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=1" async="async"></script>
