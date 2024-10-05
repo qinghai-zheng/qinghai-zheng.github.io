@@ -12,7 +12,7 @@ redirect_from:
 
 I am currently an assistant professor at [Fuzhou University](https://www.fzu.edu.cn/). 
 
-I graduated from the [Shool of Software Engineering](https://se.xjtu.edu.cn/) of [Xi'an Jiaotong University](https://www.xjtu.edu.cn/) with a doctor degree, supervised by [Prof. Jihua Zhu]([https://english.nudt.edu.cn/](https://gr.xjtu.edu.cn/en/web/zhujh)). I joined the [Cognitive Systems and Information Processing Group](https://csip.fzu.edu.cn/) in [College of Computer and Data Science](https://ccds.fzu.edu.cn/) of Fuzhou University in 2022.
+I graduated from the [Shool of Software Engineering](https://se.xjtu.edu.cn/) of [Xi'an Jiaotong University](https://www.xjtu.edu.cn/) with a doctor degree, supervised by [Prof. Jihua Zhu]([https://english.nudt.edu.cn/](https://gr.xjtu.edu.cn/en/web/zhujh)). I joined the [Cognitive Systems and Information Processing Group](https://csip.fzu.edu.cn/) in [College of Computer and Data Science](https://ccds.fzu.edu.cn/) of Fuzhou University since 2022.03.14.
 
 I am now working on ***Unsupervised Multi-view Learning***, and ***Label Distribution Learning***. Regarding the first topic, I dedicate the majority of my time on <font color="red">Tensor-based Multi-view Learning</font>, mostly on clustering task (from a single task), unified representation learning task (for general tasks). Another main focus of me is <font color="red">Label Enhancement</font>. We have introduced several interesting and promising label enhancement methods, which can obtain label distributions from logical multi-labels. 
 
