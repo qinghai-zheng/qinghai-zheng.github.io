@@ -29,6 +29,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 - *2024.01.17*: &nbsp;🎉🎉 The source codes of "DV-MSC" can be found in [DV-MSC](https://github.com/qinghai-zheng/DV-MSC) repository.
 
 <details>
+  
   <summary>More</summary>
 
   - *2023.12.17*: &nbsp;🎉🎉 100 citations is achieved by my first paper: "Feature concatenation multi-view subspace clustering".
@@ -42,6 +43,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   - *2022.08.23*: &nbsp;🎉🎉 One paper "FESRL" is accepted by IEEE SPL (CCF C). The source codes will be released soon.
   - *2022.08.18*: &nbsp;🎉🎉 One paper "GUMRL" is accepted by IEEE TCSVT (CCF B). The source codes will be released soon.
   - *2022.08.12*: &nbsp;🎉🎉 One paper "CMRL" is accepted by Information Fusion (IF=17.564). The source codes will be released soon.
+
 </details>
 
 # 📝 Publications 
