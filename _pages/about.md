@@ -38,7 +38,7 @@ redirect_from:
 - *2011.09 - 2015.06*,  Bachelor, Energy and Power Engineering, Xi'an Jiaotong University, Xi'an. 
 
 # 💬 Invited Talks
-- *2023.07*, Research on Label Enhancement.  \| [\[Slide\]](slides/20230702_LE.pdf)
+- *2023.07*, Research on Label Enhancement.  \| [\[Slide\]](../slides/20230702_LE.pdf)
 
 # 💻 Internships
 - *2023.07 - 2023.08*, Shandong University, School of Software, Jinan.
