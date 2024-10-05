@@ -55,9 +55,9 @@ To be done!
 To be done!
 
 # 🎖 Honors and Awards
-- *2023.07*: Funded by the Natural Science Foundation of Fujian Province (JAT220005). 
-- *2023.07*: Honored by High-Level Introduced Talents (Category C) in Fujian Province.
-- *2023.08*: Funded by the National Natural Science Foundationof China (62306074). 
+- *2023.07*, Funded by the Natural Science Foundation of Fujian Province (JAT220005). 
+- *2023.07*, Honored by High-Level Introduced Talents (Category C) in Fujian Province.
+- *2023.08*, Funded by the National Natural Science Foundationof China (62306074). 
 
 # 📖 Educations
 - *2018.09 - 2021.12*,  Doctor, Software Engineering,  Xi'an Jiaotong University, Xi'an, China. 
