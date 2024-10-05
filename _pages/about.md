@@ -67,6 +67,6 @@ To be done!
 - 2011.09 - 2015.06,  Bachelor, Energy and Power Engineering, Xi'an Jiaotong University, Xi'an, China. 
 
 # 💬 Invited Talks
-- 2023.07, Research on Label Enhancement, Xi'an. \| [\[Slide\]](../slides/20230702_LE.pdf)
+- 2023.07, Research on Label Enhancement, Xi'an. \| [\[slide\]](../slides/20230702_LE.pdf)
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54h92zgamqk&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=1" async="async"></script>
