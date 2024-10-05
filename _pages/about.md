@@ -38,7 +38,7 @@ redirect_from:
 - 2011.09 - 2015.06,  Bachelor, Energy and Power Engineering, Xi'an Jiaotong University, Xi'an. 
 
 # 💬 Invited Talks
-- *2023.07*, Research on Label Enhancement.  \| [\[ Slide\]](docs/Xian_20230702.pdf)
+- *2023.07*, Research on Label Enhancement.  \| [\[Slide\]](docs/Xian_20230702.pdf)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Peng Cheng Laboratory](https://www.pcl.ac.cn/), China.
