@@ -50,7 +50,7 @@ To be done!
 
 # 🎖 Honors and Fundings
 - *2023.07*, Funded by the Natural Science Foundation of Fujian Province (JAT220005). 
-- *2023.07*, Honored by High-Level Introduced Talents (Category C) in Fujian Province.
+- *2023.07*, Honored by High-Level Introduced Talents (Category C) of Fujian Province.
 - *2023.08*, Funded by the National Natural Science Foundationof China (62306074). 
 
 # 📖 Educations
