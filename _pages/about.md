@@ -27,12 +27,12 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 - *2024.03.31*: &nbsp;🎉 The source codes of "FPGL" can be found in [FPGL](https://github.com/qinghai-zheng/FPGL) repository.
 - *2024.03.25*: &nbsp;🎉 One paper "FPGL" is accepted by TCSVT (CCF B). The source codes will be released soon.
 - *2024.01.17*: &nbsp;🎉 The source codes of "DV-MSC" can be found in [DV-MSC](https://github.com/qinghai-zheng/DV-MSC) repository.
-#### 2023
+### 2023
 - *2023.12.17*: &nbsp;🎉 100 citations is achieved by my first paper: "Feature concatenation multi-view subspace clustering".
 - *2023.12.04*: &nbsp;🎉 One paper "IMVC-IE" is accepted by ICASSP 2024 (CCF B). Congratulations to Binqiang Huang, good work! The source codes will be released soon.
 - *2023.12.03*: &nbsp;🎉 One paper "DV-MSC" was accepted by KBS. Congratulations to Shoujie Lan, good work! The source codes will be released soon.
 - *2023.03.08*: &nbsp;🎉 One paper "LIB" was accepted by CVPR 2023 (CCF A). The source codes can be found in [LIBLE](https://github.com/qinghai-zheng/LIBLE) repository.
-#### 2022
+### 2022
 - *2022.10.31*: &nbsp;🎉 The source codes of "GUMRL" can be found in [GUMRL](https://github.com/qinghai-zheng/GUMRL) repository.
 - *2022.10.31*: &nbsp;🎉 The source codes of "MSCVC" can be found in [MSCVC](https://github.com/qinghai-zheng/MSCVC) repository.
 - *2022.10.05*: &nbsp;🎉 The source codes of "FESRL" can be found in [FESRL](https://github.com/qinghai-zheng/FESRL) repository.
