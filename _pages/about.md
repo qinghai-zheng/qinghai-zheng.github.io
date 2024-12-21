@@ -63,7 +63,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 - [Double-level view-correlation multi-view subspace clustering](https://www.sciencedirect.com/science/article/abs/pii/S0950705123010201),<br />
   Shoujie Lan, **Qinghai Zheng**✉, Yuanlong Yu <br />
-  *Knowledge-Based Systems*, 2023. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/DV-MSC/)
+  *Knowledge-Based Systems*, 2024. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/DV-MSC/)
 
 - [Large-scale multi-view clustering via fast essential subspace representation learning](https://ieeexplore.ieee.org/abstract/document/9868123/),<br />
   **Qinghai Zheng** <br />
@@ -120,4 +120,4 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 # 💬 Invited Talks
 - 2023.07, Research on Label Enhancement, Xi'an. \| [\[slide\]](../slides/20230702_LE.pdf)
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54h92zgamqk&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=1" async="async"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=AwTVc-1Rn9aAC2NxLbCcqpgs-1-86cGLSyQ7FpLkoVs'></script>
