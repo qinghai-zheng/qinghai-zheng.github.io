@@ -21,6 +21,7 @@ I have published 30+ papers <a href='https://scholar.google.com/citations?user=G
 If you are seeking any form of ***academic cooperation***, please feel free to email me at [zhengqinghai@fzu.edu.cn](mailto:zhengqinghai@fzu.edu.cn). 
 
 # 🔥 News
+- 2024.12.21: &nbsp;🎉 One paper "CFMVC" is accepted by IEEE SPL (CCF C). Congratulations to Zhijie Huang, good work! The corresponding source codes will be released soon.
 - 2024.09.23: &nbsp;🎉 The source codes of "TRC-IMC" can be found in [TRC-IMC](https://github.com/qinghai-zheng/TRC-IMC) repository.
 - 2024.08.04: &nbsp;🎉 One paper "TRC-IMC" is accepted by TCSVT (CCF-B). 
 - 2024.05.20: &nbsp;🎉 The source codes of "IMVC-IE" can be found in [IMVC-IE](https://github.com/qinghai-zheng/IMVC-IE) repository.
@@ -44,6 +45,10 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 # 📝 Publications 
 ### ✏️ Multi-view Learning
+- [Cross-view Fusion for Multi-view Clustering](https://qinghai-zheng.github.io/),<br />
+  Zhijie Huang, Binqiang Huang, **Qinghai Zheng**✉, Yuanlong Yu <br />
+  *IEEE Signal Processing Letters*, 2024. (CCF C). \| [\[code\]](https://qinghai-zheng.github.io/)
+  
 - [Twin reciprocal completion for incomplete multi-view clustering](https://ieeexplore.ieee.org/document/10621637/),<br />
   **Qinghai Zheng**, Haoyu Tang <br />
   *IEEE Transactions on Circuits and Systems for Video Technology*, 2024. (CCF B). \| [\[code\]](https://github.com/qinghai-zheng/TRC-IMC/)
