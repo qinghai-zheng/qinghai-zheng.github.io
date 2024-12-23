@@ -21,6 +21,7 @@ I have published 30+ papers <a href='https://scholar.google.com/citations?user=G
 If you are seeking any form of ***academic cooperation***, please feel free to email me at [zhengqinghai@fzu.edu.cn](mailto:zhengqinghai@fzu.edu.cn). 
 
 # 🔥 News
+- 2024.12.21: &nbsp;🎉 One paper "PCA-NCRM" is accepted by IEEE SPL (CCF C).
 - 2024.12.21: &nbsp;🎉 One paper "CFMVC" is accepted by IEEE SPL (CCF C). Congratulations to Zhijie Huang, good work!
 - 2024.09.23: &nbsp;🎉 The source codes of "TRC-IMC" can be found in [TRC-IMC](https://github.com/qinghai-zheng/TRC-IMC) repository.
 - 2024.08.04: &nbsp;🎉 One paper "TRC-IMC" is accepted by TCSVT (CCF-B). 
@@ -45,12 +46,16 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 # 📝 Publications 
 ### ✏️ Multi-view Learning
+- [Non-decreasing Concave Regularized Minimization for Principal Component Analysis](https://qinghai-zheng.github.io/),<br />
+  **Qinghai Zheng**, Yixin Zhuang✉ <br />
+  *IEEE Signal Processing Letters*, 2024. (CCF C). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
+
 - [Cross-view fusion for multi-view clustering](https://qinghai-zheng.github.io/),<br />
   Zhijie Huang, Binqiang Huang, **Qinghai Zheng**✉, Yuanlong Yu <br />
   *IEEE Signal Processing Letters*, 2024. (CCF C). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
   
 - [Twin reciprocal completion for incomplete multi-view clustering](https://ieeexplore.ieee.org/document/10621637/),<br />
-  **Qinghai Zheng**, Haoyu Tang <br />
+  **Qinghai Zheng**, Haoyu Tang✉ <br />
   *IEEE Transactions on Circuits and Systems for Video Technology*, 2024. (CCF B). \| [\[code\]](https://github.com/qinghai-zheng/TRC-IMC/)
 
 - [Flexible and parameter-free graph learning for multi-view spectral clustering](https://ieeexplore.ieee.org/document/10483017),<br />
@@ -70,41 +75,41 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   *IEEE Signal Processing Letters*, 2022. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/FESRL/)
 
 - [Graph-guided unsupervised multi-view representation learning](https://ieeexplore.ieee.org/abstract/document/9863860/),<br />
-  **Qinghai Zheng**, Jihua Zhu, Zhongyu Li, Haoyu Tang <br />
+  **Qinghai Zheng**, Jihua Zhu✉, Zhongyu Li, Haoyu Tang <br />
   *IEEE Transactions on Circuits and Systems for Video Technology*, 2022. (CCF B). \| [\[code\]](https://github.com/qinghai-zheng/GUMRL/)
 
 - [Comprehensive multi-view representation learning](https://www.sciencedirect.com/science/article/pii/S1566253522001075/),<br />
-  **Qinghai Zheng**, Jihua Zhu, Zhongyu Li, Zhiqiang Tian, Chen Li <br />
+  **Qinghai Zheng**, Jihua Zhu✉, Zhongyu Li, Zhiqiang Tian, Chen Li <br />
   *Information Fusion*, 2022. (IF=17.564). \| [\[code\]](https://github.com/qinghai-zheng/CMRL/)
 
 - [Multi-view subspace clustering with view correlations via low-rank tensor learning](https://www.sciencedirect.com/science/article/pii/S0045790622002178),<br />
-  **Qinghai Zheng**, Jihua Zhu <br />
+  **Qinghai Zheng**, Jihua Zhu✉ <br />
   *Computers and Electrical Engineering*, 2022. (IF=4.152). \| [\[code\]](https://github.com/qinghai-zheng/MSCVC/)
 
 - [Collaborative unsupervised multi-view representation learning](https://ieeexplore.ieee.org/abstract/document/9610083/),<br />
-  **Qinghai Zheng**, Jihua Zhu, Zhongyu Li <br />
+  **Qinghai Zheng**, Jihua Zhu✉, Zhongyu Li <br />
   *IEEE Transactions on Circuits and Systems for Video Technology*, 2021. (CCF B). \| [\[code\]](https://github.com/qinghai-zheng/CUMRL/)
 
 - [Multi-view subspace clustering networks with local and global graph information](https://www.sciencedirect.com/science/article/pii/S0925231221005075/),<br />
-  **Qinghai Zheng**, Jihua Zhu, Yuanyuan Ma, Zhongyu Li, Zhiqiang Tian <br />
+  **Qinghai Zheng**, Jihua Zhu✉, Yuanyuan Ma, Zhongyu Li, Zhiqiang Tian <br />
   *Neurocomputing*, 2021. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/MSCNLG/)
 
 - [Constrained bilinear factorization multi-view subspace clustering](https://www.sciencedirect.com/science/article/pii/S0950705120300277/),<br />
-  **Qinghai Zheng**, Jihua Zhu, Zhiqiang Tian, Zhongyu Li, Shanmin Pang, Xiuyi Jia <br />
+  **Qinghai Zheng**, Jihua Zhu✉, Zhiqiang Tian, Zhongyu Li, Shanmin Pang, Xiuyi Jia <br />
   *Knowledge-Based Systems*, 2020. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/CBF-MSC/)
 
 - [Feature concatenation multi-view subspace clustering](https://www.sciencedirect.com/science/article/abs/pii/S0925231219315127/),<br />
-  **Qinghai Zheng**, Jihua Zhu, Zhongyu Li, Shanmin Pang, Jun Wang, Yaochen Li <br />
+  **Qinghai Zheng**, Jihua Zhu✉, Zhongyu Li, Shanmin Pang, Jun Wang, Yaochen Li <br />
   *Neurocomputing*, 2020. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/FCMSC/)
 
 
 ### ✏️ Label Distribution Learning
 - [Label information bottleneck for label enhancement](https://arxiv.org/abs/2303.06836/),<br />
-  **Qinghai Zheng**, Jihua Zhu, Haoyu Tang <br />
+  **Qinghai Zheng**, Jihua Zhu✉, Haoyu Tang <br />
   *IEEE Conference on Computer Vision and Pattern Recognition*, 2023. (CCF A). \| [\[code\]](https://github.com/qinghai-zheng/LIBLE/)
 
 - [Generalized label enhancement with sample correlations](https://ieeexplore.ieee.org/abstract/document/9404874/),<br />
-  **Qinghai Zheng**, Jihua Zhu, Haoyu Tang, Xinyuan Liu, Zhongyu Li, Huimin Lu <br />
+  **Qinghai Zheng**, Jihua Zhu✉, Haoyu Tang, Xinyuan Liu, Zhongyu Li, Huimin Lu <br />
   *IEEE Transactions on Knowledge and Data Engineering*, 2021. (CCF A). \| [\[code\]](https://github.com/qinghai-zheng/gLESC/)
 
 # 🎖 Honors and Fundings
