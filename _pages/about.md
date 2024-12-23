@@ -46,7 +46,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 # 📝 Publications 
 ### ✏️ Multi-view Learning
-- [Non-decreasing Concave Regularized Minimization for Principal Component Analysis](https://qinghai-zheng.github.io/),<br />
+- [Non-decreasing concave regularized minimization for principal component analysis](https://qinghai-zheng.github.io/),<br />
   **Qinghai Zheng**, Yixin Zhuang✉ <br />
   *IEEE Signal Processing Letters*, 2024. (CCF C). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
 
