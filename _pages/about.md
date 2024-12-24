@@ -32,7 +32,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 ### 2023
 - 2023.12.17: &nbsp;🎉 100 citations is achieved by my first paper: "Feature concatenation multi-view subspace clustering".
 - 2023.12.04: &nbsp;🎉 One paper "IMVC-IE" is accepted by ICASSP 2024 (CCF B). Congratulations to Binqiang Huang, good work! 
-- 2023.12.03: &nbsp;🎉 One paper "DV-MSC" was accepted by KBS. Congratulations to Shoujie Lan, good work! 
+- 2023.12.03: &nbsp;🎉 One paper "DV-MSC" was accepted by KBS (CCF C). Congratulations to Shoujie Lan, good work! 
 - 2023.03.08: &nbsp;🎉 One paper "LIB" was accepted by CVPR 2023 (CCF A). The source codes can be found in [LIBLE](https://github.com/qinghai-zheng/LIBLE) repository.
 ### 2022
 - 2022.10.31: &nbsp;🎉 The source codes of "GUMRL" can be found in [GUMRL](https://github.com/qinghai-zheng/GUMRL) repository.
@@ -46,10 +46,6 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 # 📝 Publications 
 ### ✏️ Multi-view Learning
-- [Non-decreasing concave regularized minimization for principal component analysis](https://qinghai-zheng.github.io/),<br />
-  **Qinghai Zheng**, Yixin Zhuang✉ <br />
-  *IEEE Signal Processing Letters*, 2024. (CCF C). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
-
 - [Cross-view fusion for multi-view clustering](https://qinghai-zheng.github.io/),<br />
   Zhijie Huang, Binqiang Huang, **Qinghai Zheng**✉, Yuanlong Yu <br />
   *IEEE Signal Processing Letters*, 2024. (CCF C). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
@@ -111,6 +107,12 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 - [Generalized label enhancement with sample correlations](https://ieeexplore.ieee.org/abstract/document/9404874/),<br />
   **Qinghai Zheng**, Jihua Zhu✉, Haoyu Tang, Xinyuan Liu, Zhongyu Li, Huimin Lu <br />
   *IEEE Transactions on Knowledge and Data Engineering*, 2021. (CCF A). \| [\[code\]](https://github.com/qinghai-zheng/gLESC/)
+
+### ✏️ Others
+- [Non-decreasing concave regularized minimization for principal component analysis](https://qinghai-zheng.github.io/),<br />
+  **Qinghai Zheng**, Yixin Zhuang✉ <br />
+  *IEEE Signal Processing Letters*, 2024. (CCF C). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
+  
 
 # 🎖 Honors and Fundings
 - 2023.07, Funded by the Natural Science Foundation of Fujian Province (2023J05025). 
