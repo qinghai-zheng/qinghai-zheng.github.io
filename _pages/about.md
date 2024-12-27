@@ -109,7 +109,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   *IEEE Transactions on Knowledge and Data Engineering*, 2021. (CCF A). \| [\[code\]](https://github.com/qinghai-zheng/gLESC/)
 
 ### ✏️ Others
-- [Non-decreasing concave regularized minimization for principal component analysis](https://qinghai-zheng.github.io/),<br />
+- [Non-decreasing concave regularized minimization for principal component analysis](https://ieeexplore.ieee.org/document/10816505/),<br />
   **Qinghai Zheng**, Yixin Zhuang✉ <br />
   *IEEE Signal Processing Letters*, 2024. (CCF C). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
   
