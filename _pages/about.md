@@ -111,7 +111,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 ### ✏️ Others
 - [Non-decreasing concave regularized minimization for principal component analysis](https://ieeexplore.ieee.org/document/10816505/),<br />
   **Qinghai Zheng**, Yixin Zhuang✉ <br />
-  *IEEE Signal Processing Letters*. (CCF C). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
+  *IEEE Signal Processing Letters*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/PCA_NCRM/)
   
 
 # 🎖 Honors and Fundings
