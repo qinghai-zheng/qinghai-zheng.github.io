@@ -46,9 +46,9 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 # 📝 Publications 
 ### ✏️ Multi-view Learning
-- [Cross-view fusion for multi-view clustering](https://qinghai-zheng.github.io/),<br />
+- [Cross-view fusion for multi-view clustering](https://ieeexplore.ieee.org/document/10833824/),<br />
   Zhijie Huang, Binqiang Huang, **Qinghai Zheng**✉, Yuanlong Yu <br />
-  *IEEE Signal Processing Letters*, 2024. (CCF C). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
+  *IEEE Signal Processing Letters*, 2024. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/CFMVC/)
   
 - [Twin reciprocal completion for incomplete multi-view clustering](https://ieeexplore.ieee.org/document/10621637/),<br />
   **Qinghai Zheng**, Haoyu Tang✉ <br />
