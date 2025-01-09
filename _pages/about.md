@@ -21,6 +21,8 @@ I have published 30+ papers <a href='https://scholar.google.com/citations?user=G
 If you are seeking any form of ***academic cooperation***, please feel free to email me at [zhengqinghai@fzu.edu.cn](mailto:zhengqinghai@fzu.edu.cn). 
 
 # 🔥 News
+- 2025.01.09: &nbsp;🎉 The source codes of "PCA-NCRM" and "CFMVC" can be found in [PCA-NCRM](https://github.com/qinghai-zheng/PCA_NCRM) and [CFMVC](https://github.com/qinghai-zheng/CFMVC) repositories.
+### 2024 
 - 2024.12.23: &nbsp;🎉 One paper "PCA-NCRM" is accepted by IEEE SPL (CCF C).
 - 2024.12.21: &nbsp;🎉 One paper "CFMVC" is accepted by IEEE SPL (CCF C). Congratulations to Zhijie Huang, good work!
 - 2024.09.23: &nbsp;🎉 The source codes of "TRC-IMC" can be found in [TRC-IMC](https://github.com/qinghai-zheng/TRC-IMC) repository.
