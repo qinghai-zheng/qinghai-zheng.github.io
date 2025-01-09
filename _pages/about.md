@@ -104,11 +104,11 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 ### ✏️ Label Distribution Learning
 - [Label information bottleneck for label enhancement](https://arxiv.org/abs/2303.06836/),<br />
   **Qinghai Zheng**, Jihua Zhu✉, Haoyu Tang <br />
-  *IEEE Conference on Computer Vision and Pattern Recognition*. (CCF A). \| [\[code\]](https://github.com/qinghai-zheng/LIBLE/)
+  *IEEE Conference on Computer Vision and Pattern Recognition*, 2023. (CCF A). \| [\[code\]](https://github.com/qinghai-zheng/LIBLE/)
 
 - [Generalized label enhancement with sample correlations](https://ieeexplore.ieee.org/abstract/document/9404874/),<br />
   **Qinghai Zheng**, Jihua Zhu✉, Haoyu Tang, Xinyuan Liu, Zhongyu Li, Huimin Lu <br />
-  *IEEE Transactions on Knowledge and Data Engineering*, 2021. (CCF A). \| [\[code\]](https://github.com/qinghai-zheng/gLESC/)
+  *IEEE Transactions on Knowledge and Data Engineering*. (CCF A). \| [\[code\]](https://github.com/qinghai-zheng/gLESC/)
 
 ### ✏️ Others
 - [Non-decreasing concave regularized minimization for principal component analysis](https://ieeexplore.ieee.org/document/10816505/),<br />
