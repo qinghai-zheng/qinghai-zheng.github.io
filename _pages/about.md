@@ -32,7 +32,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 - 2024.03.25: &nbsp;🎉 One paper "FPGL" is accepted by TCSVT (CCF B). 
 - 2024.01.17: &nbsp;🎉 The source codes of "DV-MSC" can be found in [DV-MSC](https://github.com/qinghai-zheng/DV-MSC) repository.
 ### 2023
-- 2023.12.17: &nbsp;🎉 100 citations is achieved by my first paper: "Feature concatenation multi-view subspace clustering".
+- 2023.12.17: &nbsp;🎉 100 citations are achieved by my first paper: "Feature concatenation multi-view subspace clustering".
 - 2023.12.04: &nbsp;🎉 One paper "IMVC-IE" is accepted by ICASSP 2024 (CCF B). Congratulations to Binqiang Huang, good work! 
 - 2023.12.03: &nbsp;🎉 One paper "DV-MSC" was accepted by KBS (CCF C). Congratulations to Shoujie Lan, good work! 
 - 2023.03.08: &nbsp;🎉 One paper "LIB" was accepted by CVPR 2023 (CCF A). The source codes can be found in [LIBLE](https://github.com/qinghai-zheng/LIBLE) repository.
