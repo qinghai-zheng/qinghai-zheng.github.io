@@ -117,9 +117,9 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   
 
 # 🎖 Honors and Fundings
+- 2023.08, Funded by the National Natural Science Foundation of China (62306074). 
 - 2023.07, Funded by the Natural Science Foundation of Fujian Province (2023J05025). 
 - 2023.07, Honored by High-Level Introduced Talents (Category C) of Fujian Province.
-- 2023.08, Funded by the National Natural Science Foundation of China (62306074). 
 
 # 📖 Educations
 - 2018.09 - 2021.12,  Doctor, Software Engineering,  Xi'an Jiaotong University, Xi'an, China. 
