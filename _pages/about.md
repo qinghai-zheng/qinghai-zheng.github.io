@@ -68,7 +68,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   Shoujie Lan, **Qinghai Zheng**✉, Yuanlong Yu <br />
   *Knowledge-Based Systems, 2024, 284: 111271*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/DV-MSC/)
 
-  - [Graph-guided unsupervised multi-view representation learning](https://ieeexplore.ieee.org/abstract/document/9863860/),<br />
+- [Graph-guided unsupervised multi-view representation learning](https://ieeexplore.ieee.org/abstract/document/9863860/),<br />
   **Qinghai Zheng**, Jihua Zhu✉, Zhongyu Li, Haoyu Tang <br />
   *IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(1): 146-159*. (CCF B). \| [\[code\]](https://github.com/qinghai-zheng/GUMRL/)
 
