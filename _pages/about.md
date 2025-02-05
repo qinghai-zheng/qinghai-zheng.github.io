@@ -108,7 +108,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 - [Generalized label enhancement with sample correlations](https://ieeexplore.ieee.org/abstract/document/9404874/),<br />
   **Qinghai Zheng**, Jihua Zhu✉, Haoyu Tang, Xinyuan Liu, Zhongyu Li, Huimin Lu <br />
-  *IEEE Transactions on Knowledge and Data Engineering, 35(1): 482-495*. (CCF A). \| [\[code\]](https://github.com/qinghai-zheng/gLESC/)
+  *IEEE Transactions on Knowledge and Data Engineering, 2023, 35(1): 482-495*. (CCF A). \| [\[code\]](https://github.com/qinghai-zheng/gLESC/)
 
 ### ✏️ Others
 - [Non-decreasing concave regularized minimization for principal component analysis](https://ieeexplore.ieee.org/document/10816505/),<br />
