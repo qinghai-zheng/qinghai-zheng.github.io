@@ -49,7 +49,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 # 📝 Publications 
 ### ✏️ Multi-view Learning
-- [Trusted Cross-view Completion for Incomplete Multi-view Classification](https://qinghai-zheng.github.io/),<br />
+- [Trusted cross-view completion for incomplete multi-view classification](https://qinghai-zheng.github.io/),<br />
   Liping Zhou, Shiyun Chen, Peihuan Song, **Qinghai Zheng**✉, Yuanlong Yu <br />
   *Neurocomputing, 2025 (Accepted)*. (CCF C). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
 
