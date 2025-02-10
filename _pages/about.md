@@ -77,13 +77,13 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   **Qinghai Zheng**, Jihua Zhu✉, Zhongyu Li, Haoyu Tang <br />
   *IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(1): 146-159*. (CCF B). \| [\[code\]](https://github.com/qinghai-zheng/GUMRL/)
 
-- [Large-scale multi-view clustering via fast essential subspace representation learning](https://ieeexplore.ieee.org/abstract/document/9868123/),<br />
-  **Qinghai Zheng** <br />
-  *IEEE Signal Processing Letters, 2022, 29: 1893-1897*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/FESRL/)
-
 - [Comprehensive multi-view representation learning](https://www.sciencedirect.com/science/article/pii/S1566253522001075/),<br />
   **Qinghai Zheng**, Jihua Zhu✉, Zhongyu Li, Zhiqiang Tian, Chen Li <br />
   *Information Fusion, 2023, 89: 198-209*. (IF=17.564). \| [\[code\]](https://github.com/qinghai-zheng/CMRL/)
+
+- [Large-scale multi-view clustering via fast essential subspace representation learning](https://ieeexplore.ieee.org/abstract/document/9868123/),<br />
+  **Qinghai Zheng** <br />
+  *IEEE Signal Processing Letters, 2022, 29: 1893-1897*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/FESRL/)
 
 - [Multi-view subspace clustering with view correlations via low-rank tensor learning](https://www.sciencedirect.com/science/article/pii/S0045790622002178),<br />
   **Qinghai Zheng**, Jihua Zhu✉ <br />
