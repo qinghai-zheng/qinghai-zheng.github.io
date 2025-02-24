@@ -21,6 +21,7 @@ I have published 30+ papers <a href='https://scholar.google.com/citations?user=G
 If you are seeking any form of ***academic cooperation***, please feel free to email me at [zhengqinghai@fzu.edu.cn](mailto:zhengqinghai@fzu.edu.cn). 
 
 # 🔥 News
+- 2025.02.09: &nbsp;🎉 The source codes of "TCVC-IMC" can be found in [TCVC-IMC](https://github.com/qinghai-zheng/TCVC/) repository.
 - 2025.02.09: &nbsp;🎉 One paper "TCVC-IMC" is accepted by Neurocomputing (CCF C). Congratulations to Liping Zhou, good work!
 - 2025.01.09: &nbsp;🎉 The source codes of "PCA-NCRM" and "CFMVC" can be found in [PCA-NCRM](https://github.com/qinghai-zheng/PCA_NCRM) and [CFMVC](https://github.com/qinghai-zheng/CFMVC) repositories.
 ### 2024 
@@ -51,7 +52,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 ### ✏️ Multi-view Learning
 - [Trusted cross-view completion for incomplete multi-view classification](https://www.sciencedirect.com/science/article/abs/pii/S0925231225003947),<br />
   Liping Zhou, Shiyun Chen, Peihuan Song, **Qinghai Zheng**✉, Yuanlong Yu <br />
-  *Neurocomputing, 2025 (Accepted)*. (CCF C). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
+  *Neurocomputing, 2025 (Accepted)*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/TCVC/)
 
 - [Cross-view fusion for multi-view clustering](https://ieeexplore.ieee.org/document/10833824/),<br />
   Zhijie Huang, Binqiang Huang, **Qinghai Zheng**✉, Yuanlong Yu <br />
