@@ -52,7 +52,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 ### ✏️ Multi-view Learning
 - [Trusted cross-view completion for incomplete multi-view classification](https://www.sciencedirect.com/science/article/abs/pii/S0925231225003947),<br />
   Liping Zhou, Shiyun Chen, Peihuan Song, **Qinghai Zheng**✉, Yuanlong Yu <br />
-  *Neurocomputing, 2025, 629, 129722*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/TCVC/)
+  *Neurocomputing, 2025, 629: 129722*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/TCVC/)
 
 - [Cross-view fusion for multi-view clustering](https://ieeexplore.ieee.org/document/10833824/),<br />
   Zhijie Huang, Binqiang Huang, **Qinghai Zheng**✉, Yuanlong Yu <br />
@@ -104,7 +104,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 - [Feature concatenation multi-view subspace clustering](https://www.sciencedirect.com/science/article/abs/pii/S0925231219315127/),<br />
   **Qinghai Zheng**, Jihua Zhu✉, Zhongyu Li, Shanmin Pang, Jun Wang, Yaochen Li <br />
-  *Neurocomputing, 2020, 379, 89-102*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/FCMSC/)
+  *Neurocomputing, 2020, 379: 89-102*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/FCMSC/)
 
 
 ### ✏️ Label Distribution Learning
