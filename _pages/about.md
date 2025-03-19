@@ -50,7 +50,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 # 📝 Publications 
 ### ✏️ Multi-view Learning
-- [Neighbor-based completion for addressing incomplete multiview clustering](https://ieeexplore.ieee.org/document/10925219/),<br />
+- [Neighbor-based completion for addressing incomplete multi-view clustering](https://ieeexplore.ieee.org/document/10925219/),<br />
   Wenbiao Yan, Jihua Zhu✉, Yiyang Zhou, Jinqian Chen, Haozhe Cheng, Kun Yue, **Qinghai Zheng**<br />
   *IEEE Transactions on Neural Networks and Learning Systems 2025 (Accepted)*. (CCF B).
 
@@ -112,7 +112,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 
 ### ✏️ Label Distribution Learning
-- [Causal Label Enhancement](https://ieeexplore.ieee.org/abstract/document/10783090/),<br />
+- [Causal label enhancement](https://ieeexplore.ieee.org/abstract/document/10783090/),<br />
   Xinyuan Liu, Jihua Zhu✉, Kun Yue, **Qinghai Zheng**, Zhongyu Li, Zhiqiang Tian, Mingchen Zhu <br />
   *IEEE Transactions on Knowledge and Data Engineering, 2024 (Accepted)*. (CCF A).
 
