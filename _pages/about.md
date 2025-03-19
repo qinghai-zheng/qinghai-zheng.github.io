@@ -139,11 +139,11 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 - [Watch your head: assembling projection heads to save the reliability of federated models](https://ojs.aaai.org/index.php/AAAI/article/view/29012),<br />
   Jinqian Chen, Jihua Zhu✉, **Qinghai Zheng**, Zhongyu Li, Zhiqiang Tian <br />
-  *Proceedings of the AAAI Conference on Artificial Intelligence, 38(10): 11329-11337*. (CCF A).
+  *Proceedings of the AAAI Conference on Artificial Intelligence, 2023, 38(10): 11329-11337*. (CCF A).
 
 - [Towards fast and stable federated learning: confronting heterogeneity via knowledge anchor](https://dl.acm.org/doi/abs/10.1145/3581783.3612597),<br />
   Jinqian Chen, Jihua Zhu✉, **Qinghai Zheng** <br />
-  *Proceedings of the 31st ACM International Conference on Multimedia, 8697-8706*. (CCF A).
+  *Proceedings of the ACM International Conference on Multimedia, 2023, 8697-8706*. (CCF A).
 
 # 🎖 Honors and Fundings
 - 2023.08, Funded by the National Natural Science Foundation of China (62306074). 
