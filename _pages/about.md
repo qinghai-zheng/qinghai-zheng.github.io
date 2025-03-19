@@ -45,7 +45,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 - 2022.09.18: &nbsp;🎉 The source codes of "CMRL" can be found in [CMRL](https://github.com/qinghai-zheng/CMRL) repository.
 - 2022.08.23: &nbsp;🎉 One paper "FESRL" is accepted by IEEE SPL (CCF C).
 - 2022.08.18: &nbsp;🎉 One paper "GUMRL" is accepted by IEEE TCSVT (CCF B). 
-- 2022.08.12: &nbsp;🎉 One paper "CMRL" is accepted by Information Fusion (IF=17.564).
+- 2022.08.12: &nbsp;🎉 One paper "CMRL" is accepted by Information Fusion (IF=17.6).
 - 2022.07.03: &nbsp;🎉 One paper "MSCVC" is accepted by Computers and Electrical Engineering. 
 
 # 📝 Publications 
