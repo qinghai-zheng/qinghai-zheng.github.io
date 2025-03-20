@@ -124,6 +124,10 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   **Qinghai Zheng**, Jihua Zhu✉, Haoyu Tang, Xinyuan Liu, Zhongyu Li, Huimin Lu <br />
   *IEEE Transactions on Knowledge and Data Engineering, 2023, 35(1): 482-495*. (CCF A). \| [\[code\]](https://github.com/qinghai-zheng/gLESC/)
 
+- [Label enhancement with sample correlations via low-rank representation](https://ojs.aaai.org/index.php/AAAI/article/view/6053),<br />
+  Haoyu Tang, Jihua Zhu✉, **Qinghai Zheng**, Jun Wang, Shanmin Pang, Zhongyu Li  <br />
+  *Proceedings of the AAAI Conference on Artificial Intelligence, 34(04): 5932-5939*. (CCF A). \| [\[code\]](https://github.com/tanghaoyu258/AAAI2020LESC)
+
 ### ✏️ Others
 - [Towards stable and storage-efficient dataset distillation: matching convexified trajectory](https://qinghai-zheng.github.io/),<br />
   Wenliang Zhong, Haoyu Tang✉, **Qinghai Zheng**, Mingzhu Xu, Yupeng Hu, Weili Guan <br />
