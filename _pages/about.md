@@ -14,7 +14,7 @@ I am currently an assistant professor at [Fuzhou University](https://www.fzu.edu
 
 I graduated from the [Shool of Software Engineering](https://se.xjtu.edu.cn/) of [Xi'an Jiaotong University](https://www.xjtu.edu.cn/) with a doctor degree, supervised by [Prof. Jihua Zhu](https://gr.xjtu.edu.cn/en/web/zhujh). I joined the [Cognitive Systems and Information Processing Group](https://csip.fzu.edu.cn/) in [College of Computer and Data Science](https://ccds.fzu.edu.cn/) of Fuzhou University since 2022.03.14.
 
-I am now working on ***Unsupervised Multi-view Learning*** and ***Label Distribution Learning***. Regarding the first topic, I dedicate the majority of my time on <font color="red">Tensor-based Multi-view Learning</font>, mostly on clustering (for a specific task) and unified representation learning (for general tasks). Another main focus of me is <font color="red">Label Enhancement</font>, we have introduced several interesting and promising label enhancement methods, which can obtain label distributions from logical multi-labels. 
+I am now working on ***Unsupervised Multi-view Learning*** and ***Label Distribution Learning***. Regarding the first topic, I dedicate the majority of my time on <font color="red">Tensor-based Multi-view Learning</font>, mostly on clustering (for a specific task) and unified representation learning (for general tasks). Another main focus of mine is <font color="red">Label Enhancement</font>, we have introduced several interesting and promising label enhancement methods, which can obtain label distributions from logical multi-labels. 
 
 I have published 30+ papers <a href='https://scholar.google.com/citations?user=GoV2wB0AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fqinghai-zheng%2Fqinghai-zheng.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences and journals, such as CVPR, AAAI, ACM MM, IEEE TKDE, IEEE TNNLS, and IEEE TCSVT. I also serve as reviewers for top conferences and journals, including CVPR, AAAI, ACM MM, IEEE TIP, IEEE TKDE, and IEEE TCSVT.
 
@@ -126,7 +126,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 - [Label enhancement with sample correlations via low-rank representation](https://ojs.aaai.org/index.php/AAAI/article/view/6053),<br />
   Haoyu Tang, Jihua Zhu✉, **Qinghai Zheng**, Jun Wang, Shanmin Pang, Zhongyu Li  <br />
-  *Proceedings of the AAAI Conference on Artificial Intelligence, 34(04): 5932-5939*. (CCF A). \| [\[code\]](https://github.com/tanghaoyu258/AAAI2020LESC)
+  *Proceedings of the AAAI Conference on Artificial Intelligence, 2020, 34(04): 5932-5939*. (CCF A). \| [\[code\]](https://github.com/tanghaoyu258/AAAI2020LESC)
 
 ### ✏️ Others
 - [Towards stable and storage-efficient dataset distillation: matching convexified trajectory](https://qinghai-zheng.github.io/),<br />
