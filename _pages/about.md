@@ -50,10 +50,6 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 # 📝 Publications 
 ### ✏️ Multi-view Learning
-- [Neighbor-based completion for addressing incomplete multi-view clustering](https://ieeexplore.ieee.org/document/10925219/),<br />
-  Wenbiao Yan, Jihua Zhu✉, Yiyang Zhou, Jinqian Chen, Haozhe Cheng, Kun Yue, **Qinghai Zheng**<br />
-  *IEEE Transactions on Neural Networks and Learning Systems 2025 (Accepted)*. (CCF B).
-
 - [Trusted cross-view completion for incomplete multi-view classification](https://www.sciencedirect.com/science/article/abs/pii/S0925231225003947),<br />
   Liping Zhou, Shiyun Chen, Peihuan Song, **Qinghai Zheng**✉, Yuanlong Yu <br />
   *Neurocomputing, 2025, 629: 129722*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/TCVC/)
@@ -110,12 +106,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   **Qinghai Zheng**, Jihua Zhu✉, Zhongyu Li, Shanmin Pang, Jun Wang, Yaochen Li <br />
   *Neurocomputing, 2020, 379: 89-102*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/FCMSC/)
 
-
 ### ✏️ Label Distribution Learning
-- [Causal label enhancement](https://ieeexplore.ieee.org/abstract/document/10783090/),<br />
-  Xinyuan Liu, Jihua Zhu✉, Kun Yue, **Qinghai Zheng**, Zhongyu Li, Zhiqiang Tian, Mingchen Zhu <br />
-  *IEEE Transactions on Knowledge and Data Engineering, 2024 (Accepted)*. (CCF A).
-
 - [Label information bottleneck for label enhancement](https://arxiv.org/abs/2303.06836/),<br />
   **Qinghai Zheng**, Jihua Zhu✉, Haoyu Tang <br />
   *IEEE Conference on Computer Vision and Pattern Recognition, 2023: 7497-7506*. (CCF A). \| [\[code\]](https://github.com/qinghai-zheng/LIBLE/)
@@ -124,30 +115,10 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   **Qinghai Zheng**, Jihua Zhu✉, Haoyu Tang, Xinyuan Liu, Zhongyu Li, Huimin Lu <br />
   *IEEE Transactions on Knowledge and Data Engineering, 2023, 35(1): 482-495*. (CCF A). \| [\[code\]](https://github.com/qinghai-zheng/gLESC/)
 
-- [Label enhancement with sample correlations via low-rank representation](https://ojs.aaai.org/index.php/AAAI/article/view/6053),<br />
-  Haoyu Tang, Jihua Zhu✉, **Qinghai Zheng**, Jun Wang, Shanmin Pang, Zhongyu Li  <br />
-  *Proceedings of the AAAI Conference on Artificial Intelligence, 2020, 34(04): 5932-5939*. (CCF A). \| [\[code\]](https://github.com/tanghaoyu258/AAAI2020LESC)
-
 ### ✏️ Others
-- [Towards stable and storage-efficient dataset distillation: matching convexified trajectory](https://qinghai-zheng.github.io/),<br />
-  Wenliang Zhong, Haoyu Tang✉, **Qinghai Zheng**, Mingzhu Xu, Yupeng Hu, Weili Guan <br />
-  *IEEE Conference on Computer Vision and Pattern Recognition, 2025 (Accepted)*. (CCF A).
-
 - [Non-decreasing concave regularized minimization for principal component analysis](https://ieeexplore.ieee.org/document/10816505/),<br />
   **Qinghai Zheng**, Yixin Zhuang✉ <br />
   *IEEE Signal Processing Letters, 2025, 32: 486-490*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/PCA_NCRM/)
-
-- [Listen as you wish: Fusion of audio and text for cross-modal event detection in smart cities](https://www.sciencedirect.com/science/article/abs/pii/S1566253524002380),<br />
-  Haoyu Tang, Yupeng Hu✉, Yunxiao Wang, Shuaike Zhang, Mingzhu Xu, Jihua Zhu, **Qinghai Zheng** <br />
-  *Information Fusion, 2024, 110, 102460*. (IF=14.8).
-
-- [Watch your head: assembling projection heads to save the reliability of federated models](https://ojs.aaai.org/index.php/AAAI/article/view/29012),<br />
-  Jinqian Chen, Jihua Zhu✉, **Qinghai Zheng**, Zhongyu Li, Zhiqiang Tian <br />
-  *Proceedings of the AAAI Conference on Artificial Intelligence, 2023, 38(10): 11329-11337*. (CCF A).
-
-- [Towards fast and stable federated learning: confronting heterogeneity via knowledge anchor](https://dl.acm.org/doi/abs/10.1145/3581783.3612597),<br />
-  Jinqian Chen, Jihua Zhu✉, **Qinghai Zheng** <br />
-  *Proceedings of the ACM International Conference on Multimedia, 2023: 8697-8706*. (CCF A).
 
 # 🎖 Honors and Fundings
 - 2023.08, Funded by the National Natural Science Foundation of China (62306074). 
