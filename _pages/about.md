@@ -130,7 +130,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 - 2015.09 - 2018.06,  Master, Software Engineering,  Xi'an Jiaotong University, Xi'an, China.
 - 2011.09 - 2015.06,  Bachelor, Energy and Power Engineering, Xi'an Jiaotong University, Xi'an, China. 
 
-# 💬 Invited Talks
+# 💬 Notes and Talks
 - 2023.07, Research on Label Enhancement, Xi'an. \| [\[slide\]](../slides/20230702_LE.pdf)
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=AwTVc-1Rn9aAC2NxLbCcqpgs-1-86cGLSyQ7FpLkoVs'></script>
