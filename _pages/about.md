@@ -106,6 +106,10 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   **Qinghai Zheng**, Jihua Zhu✉, Zhongyu Li, Shanmin Pang, Jun Wang, Yaochen Li <br />
   *Neurocomputing, 2020, 379: 89-102*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/FCMSC/)
 
+- [Multi-view hierarchical clustering (MHC)](https://arxiv.org/abs/2010.07573/),<br />
+  **Qinghai Zheng**, Jihua Zhu✉, Shuangxun Ma <br />
+  *Arxiv, 2020, 2010.07573*. *An interesting try! One of my favorite works :)*
+
 ### ✏️ Label Distribution Learning
 - [Label information bottleneck for label enhancement](https://arxiv.org/abs/2303.06836/),<br />
   **Qinghai Zheng**, Jihua Zhu✉, Haoyu Tang <br />
