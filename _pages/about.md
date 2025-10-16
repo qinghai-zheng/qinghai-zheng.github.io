@@ -12,15 +12,16 @@ redirect_from:
 
 I am currently an assistant professor at [Fuzhou University](https://www.fzu.edu.cn/). 
 
-I graduated from the [Shool of Software Engineering](https://se.xjtu.edu.cn/) of [Xi'an Jiaotong University](https://www.xjtu.edu.cn/) with a doctor degree, supervised by [Prof. Jihua Zhu](https://gr.xjtu.edu.cn/en/web/zhujh). I joined the [Cognitive Systems and Information Processing Group](https://csip.fzu.edu.cn/) in [College of Computer and Data Science](https://ccds.fzu.edu.cn/) of Fuzhou University since 2022.03.14.
+I graduated from the [School of Software Engineering](https://se.xjtu.edu.cn/) of [Xi'an Jiaotong University](https://www.xjtu.edu.cn/) with a doctoral degree, supervised by [Prof. Jihua Zhu](https://gr.xjtu.edu.cn/en/web/zhujh). I joined the [Cognitive Systems and Information Processing Group](https://csip.fzu.edu.cn/) in the [College of Computer and Data Science](https://ccds.fzu.edu.cn/) of Fuzhou University since 2022.03.14.
 
-I am now working on ***Unsupervised Multi-view Learning*** and ***Label Distribution Learning***. Regarding the first topic, I dedicate the majority of my time on <font color="red">Tensor-based Multi-view Learning</font>, mostly on clustering (for a specific task) and unified representation learning (for general tasks). Another main focus of mine is <font color="red">Label Enhancement</font>, we have introduced several interesting and promising label enhancement methods, which can obtain label distributions from logical multi-labels. 
+I am now working on ***Unsupervised Multi-view Learning*** and ***Label Distribution Learning***. Regarding the first topic, I dedicate the majority of my time to <font color="red">Tensor-based Multi-view Learning</font>, mostly on clustering (for a specific task) and unified representation learning (for general tasks). Another main focus of mine is <font color="red">Label Enhancement</font>, we have introduced several interesting and promising label enhancement methods, which can obtain label distributions from logical multi-labels. 
 
-I have published 30+ papers <a href='https://scholar.google.com/citations?user=GoV2wB0AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fqinghai-zheng%2Fqinghai-zheng.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences and journals, such as CVPR, AAAI, ACM MM, IEEE TKDE, IEEE TNNLS, and IEEE TCSVT. I also serve as reviewers for top conferences and journals, including CVPR, AAAI, ACM MM, IEEE TIP, IEEE TKDE, and IEEE TCSVT.
+I have published 30+ papers <a href='https://scholar.google.com/citations?user=GoV2wB0AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fqinghai-zheng%2Fqinghai-zheng.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences and journals, such as CVPR, AAAI, ACM MM, IEEE TKDE, IEEE TNNLS, and IEEE TCSVT. I also serve as a reviewer for top conferences and journals, including CVPR, AAAI, ACM MM, IEEE TIP, IEEE TKDE, and IEEE TCSVT.
 
 If you are seeking any form of ***academic cooperation***, please feel free to email me at [zhengqinghai@fzu.edu.cn](mailto:zhengqinghai@fzu.edu.cn). 
 
 # 🔥 News
+- 2025.10.13: &nbsp;🎉 One paper "TGL" is accepted by IEEE TKDE (CCF A).
 - 2025.02.24: &nbsp;🎉 The source codes of "TCVC-IMC" can be found in [TCVC-IMC](https://github.com/qinghai-zheng/TCVC/) repository.
 - 2025.02.09: &nbsp;🎉 One paper "TCVC-IMC" is accepted by Neurocomputing (CCF C). Congratulations to Liping Zhou, good work!
 - 2025.01.09: &nbsp;🎉 The source codes of "PCA-NCRM" and "CFMVC" can be found in [PCA-NCRM](https://github.com/qinghai-zheng/PCA_NCRM) and [CFMVC](https://github.com/qinghai-zheng/CFMVC) repositories.
@@ -49,7 +50,11 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 - 2022.07.03: &nbsp;🎉 One paper "MSCVC" is accepted by Computers and Electrical Engineering. 
 
 # 📝 Publications 
-### ✏️ Multi-view Learning
+### ✏️ Clustering and Multi-view Learning
+- [From one comes two: a tensorized graph learning framework for clustering](https://qinghai-zheng.github.io/),<br />
+  **Qinghai Zheng**, Jihua Zhu✉, Yuanlong Yu✉, Haoyu Tang <br />
+  *IEEE Transactions on Knowledge and Data Engineering, 2025 (Accepted)*. (CCF A). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
+
 - [Trusted cross-view completion for incomplete multi-view classification](https://www.sciencedirect.com/science/article/abs/pii/S0925231225003947),<br />
   Liping Zhou, Shiyun Chen, Peihuan Song, **Qinghai Zheng**✉, Yuanlong Yu <br />
   *Neurocomputing, 2025, 629: 129722*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/TCVC/)
