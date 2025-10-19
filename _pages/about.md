@@ -21,7 +21,7 @@ I have published 30+ papers <a href='https://scholar.google.com/citations?user=G
 If you are seeking any form of ***academic cooperation***, please feel free to email me at [zhengqinghai@fzu.edu.cn](mailto:zhengqinghai@fzu.edu.cn). 
 
 # 🔥 News
-- 2025.10.13: &nbsp;🎉 The source codes of "TGL" can be found in [TGL](https://github.com/qinghai-zheng/TGL) repository.
+- 2025.10.19: &nbsp;🎉 The source codes of "TGL" can be found in [TGL](https://github.com/qinghai-zheng/TGL) repository.
 - 2025.10.13: &nbsp;🎉 One paper "TGL" is accepted by IEEE TKDE (CCF A).
 - 2025.02.24: &nbsp;🎉 The source codes of "TCVC-IMC" can be found in [TCVC-IMC](https://github.com/qinghai-zheng/TCVC/) repository.
 - 2025.02.09: &nbsp;🎉 One paper "TCVC-IMC" is accepted by Neurocomputing (CCF C). Congratulations to Liping Zhou, good work!
