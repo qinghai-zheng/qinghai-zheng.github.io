@@ -52,7 +52,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 # 📝 Publications 
 ### ✏️ Clustering and Multi-view Learning
-- [From one comes two: a tensorized graph learning framework for clustering](https://doi.ieeecomputersociety.org/10.1109/TKDE.2025.3622333),<br />
+- [From one comes two: a tensorized graph learning framework for clustering](https://ieeexplore.ieee.org/abstract/document/11205298),<br />
   **Qinghai Zheng**, Jihua Zhu✉, Yuanlong Yu✉, Haoyu Tang <br />
   *IEEE Transactions on Knowledge and Data Engineering, 2025 (Accepted)*. (CCF A). \| [\[code\]](https://github.com/qinghai-zheng/TGL)
 
