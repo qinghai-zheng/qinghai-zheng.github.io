@@ -51,7 +51,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 - 2022.07.03: &nbsp;🎉 One paper "MSCVC" is accepted by Computers and Electrical Engineering. 
 
 # 📝 Publications 
-### ✏️ Clustering and Multi-view Learning
+### ✏️ Representation Learning and Multi-view Learning
 - [From one comes two: a tensorized graph learning framework for clustering](https://ieeexplore.ieee.org/abstract/document/11205298),<br />
   **Qinghai Zheng**, Jihua Zhu✉, Yuanlong Yu✉, Haoyu Tang <br />
   *IEEE Transactions on Knowledge and Data Engineering, 2025 (Accepted)*. (CCF A). \| [\[code\]](https://github.com/qinghai-zheng/TGL)
@@ -59,6 +59,10 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 - [Trusted cross-view completion for incomplete multi-view classification](https://www.sciencedirect.com/science/article/abs/pii/S0925231225003947),<br />
   Liping Zhou, Shiyun Chen, Peihuan Song, **Qinghai Zheng**✉, Yuanlong Yu <br />
   *Neurocomputing, 2025, 629: 129722*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/TCVC/)
+
+- [Non-decreasing concave regularized minimization for principal component analysis](https://ieeexplore.ieee.org/document/10816505/),<br />
+  **Qinghai Zheng**, Yixin Zhuang✉ <br />
+  *IEEE Signal Processing Letters, 2025, 32: 486-490*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/PCA_NCRM/)
 
 - [Cross-view fusion for multi-view clustering](https://ieeexplore.ieee.org/document/10833824/),<br />
   Zhijie Huang, Binqiang Huang, **Qinghai Zheng**✉, Yuanlong Yu <br />
@@ -125,7 +129,15 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   **Qinghai Zheng**, Jihua Zhu✉, Haoyu Tang, Xinyuan Liu, Zhongyu Li, Huimin Lu <br />
   *IEEE Transactions on Knowledge and Data Engineering, 2023, 35(1): 482-495*. (CCF A). \| [\[code\]](https://github.com/qinghai-zheng/gLESC/)
 
-### ✏️ Others
+- [Bidirectional loss function for label enhancement and distribution learning](https://www.sciencedirect.com/science/article/pii/S0950705120308194),<br />
+  Xinyuan Liu, Jihua Zhu✉, **Qinghai Zheng**, Zhongyu Li, Ruixin Liu, Jun Wang <br />    
+  *Knowledge-Based Systems, 2021, 213: 106690*. (CCF C).
+
+- [Label enhancement with sample correlations via low-rank representation](https://ojs.aaai.org/index.php/AAAI/article/view/6053),<br />
+  Haoyu Tang, Jihua Zhu✉, **Qinghai Zheng**, Jun Wang, Shanmin Pang, Zhongyu Li <br />
+  *Proceedings of the AAAI Conference on Artificial Intelligence, 2021, 34(04): 5932-5939*. (CCF A).
+
+### ✏️ Federated Learning and Multimedia Retrieval
 - [Non-decreasing concave regularized minimization for principal component analysis](https://ieeexplore.ieee.org/document/10816505/),<br />
   **Qinghai Zheng**, Yixin Zhuang✉ <br />
   *IEEE Signal Processing Letters, 2025, 32: 486-490*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/PCA_NCRM/)
