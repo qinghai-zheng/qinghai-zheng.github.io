@@ -67,6 +67,14 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 - [Cross-view fusion for multi-view clustering](https://ieeexplore.ieee.org/document/10833824/),<br />
   Zhijie Huang, Binqiang Huang, **Qinghai Zheng**✉, Yuanlong Yu <br />
   *IEEE Signal Processing Letters, 2025, 32: 621-625*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/CFMVC/)
+
+- [Mcoco: multi-level consistency collaborative multi-view clustering](https://ieeexplore.ieee.org/document/10833824/),<br />
+  Yiyang Zhou, **Qinghai Zheng**, Yifei Wang, Wenbiao Yan, Pengcheng Shi, Jihua Zhu✉ <br />
+  *Expert Systems with Applications, 2024, 238: 121976. (CCF C).
+
+- [Multi-view semantic consistency based information bottleneck for clustering](https://www.sciencedirect.com/science/article/abs/pii/S0950705124000832),<br />
+  Wenbiao Yan, Yiyang Zhou, Yifei Wang, **Qinghai Zheng**, Jihua Zhu✉ <br />    
+  *Knowledge-Based Systems, 2024, 288: 111448*. (CCF C).
   
 - [Twin reciprocal completion for incomplete multi-view clustering](https://ieeexplore.ieee.org/document/10621637/),<br />
   **Qinghai Zheng**, Haoyu Tang✉ <br />
@@ -83,6 +91,10 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 - [Double-level view-correlation multi-view subspace clustering](https://www.sciencedirect.com/science/article/abs/pii/S0950705123010201),<br />
   Shoujie Lan, **Qinghai Zheng**✉, Yuanlong Yu <br />
   *Knowledge-Based Systems, 2024, 284: 111271*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/DV-MSC/)
+
+- [Semantically consistent multi-view representation learning](https://www.sciencedirect.com/science/article/abs/pii/S0950705124000832),<br />
+  Yiyang Zhou, **Qinghai Zheng**, Shunshun Bai, Jihua Zhu✉  <br />    
+  *Knowledge-Based Systems, 2023, 278: 110899*. (CCF C).
 
 - [Graph-guided unsupervised multi-view representation learning](https://ieeexplore.ieee.org/abstract/document/9863860/),<br />
   **Qinghai Zheng**, Jihua Zhu✉, Zhongyu Li, Haoyu Tang <br />
@@ -137,10 +149,10 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   Haoyu Tang, Jihua Zhu✉, **Qinghai Zheng**, Jun Wang, Shanmin Pang, Zhongyu Li <br />
   *Proceedings of the AAAI Conference on Artificial Intelligence, 2021, 34(04): 5932-5939*. (CCF A).
 
-### ✏️ Federated Learning and Multimedia Retrieval
-- [Non-decreasing concave regularized minimization for principal component analysis](https://ieeexplore.ieee.org/document/10816505/),<br />
-  **Qinghai Zheng**, Yixin Zhuang✉ <br />
-  *IEEE Signal Processing Letters, 2025, 32: 486-490*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/PCA_NCRM/)
+### ✏️ Multimedia Retrieval and Federated Learning
+- [Multi-level query interaction for temporal language grounding](https://ieeexplore.ieee.org/abstract/document/9543470/),<br />
+  Haoyu Tang, Jihua Zhu✉, Lin Wang, **Qinghai Zheng**, Tianwei Zhang <br />
+  *IEEE Transactions on Intelligent Transportation Systems, 2022, 23(12): 25479-25488*. (CCF C).
 
 # 🎖 Honors and Fundings
 - 2023.08, Funded by the National Natural Science Foundation of China (62306074). 
