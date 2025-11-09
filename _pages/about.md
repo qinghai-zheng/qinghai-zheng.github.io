@@ -60,7 +60,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 - [Pseudo multi-view k-means clustering](https://qinghai-zheng.github.io/),<br />
   Jinqian Chen, Jihua Zhu✉, Haoyu Tang, **Qinghai Zheng** <br />
-  *Proceedings of the AAAI Conference on Artificial Intelligence, 2026 (Accepted)*. (CCF A). \| [\[code (coming soon)\]](https://github.com/qinghai-zheng/PMKC)
+  *Proceedings of the AAAI Conference on Artificial Intelligence, 2026 (Accepted)*. (CCF A). \| [\[code (coming soon)\]](https://github.com/qinghai-zheng/PMKC/)
 
 - [Decompose and conquer: compositional reasoning for zero-shot temporal action localization](https://qinghai-zheng.github.io/),<br />
   Haoyu Tang, Tianyuan Liang, Han Jiang, Xuesong Liu, **Qinghai Zheng**, Yupeng Hu✉ <br />
