@@ -68,7 +68,11 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   Zhijie Huang, Binqiang Huang, **Qinghai Zheng**✉, Yuanlong Yu <br />
   *IEEE Signal Processing Letters, 2025, 32: 621-625*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/CFMVC/)
 
-- [Mcoco: multi-level consistency collaborative multi-view clustering](https://ieeexplore.ieee.org/document/10833824/),<br />
+- [Graph-guided imputation-free incomplete multi-view clustering](https://www.sciencedirect.com/science/article/pii/S0957417424020323),<br />
+  Shunshun Bai, **Qinghai Zheng**, Xiaojin Ren, Jihua Zhu✉ <br />
+  *Expert Systems with Applications, 2024, 258: 125165. (CCF C).
+
+- [Mcoco: multi-level consistency collaborative multi-view clustering](https://www.sciencedirect.com/science/article/pii/S0957417423024788),<br />
   Yiyang Zhou, **Qinghai Zheng**, Yifei Wang, Wenbiao Yan, Pengcheng Shi, Jihua Zhu✉ <br />
   *Expert Systems with Applications, 2024, 238: 121976. (CCF C).
 
@@ -131,6 +135,10 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 - [Multi-view hierarchical clustering (MHC)](https://arxiv.org/abs/2010.07573/),<br />
   **Qinghai Zheng**, Jihua Zhu✉, Shuangxun Ma <br />
   *Arxiv, 2020, 2010.07573*. **An interesting try! One of my favorite works :)**
+
+- [Multi‐view spectral clustering via partial sum minimisation of singular values](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/el.2018.7883),<br />
+  Ling Zhai, Jihua Zhu✉, **Qinghai Zheng**, Shanmin Pang, Zhongyu Li, Jun Wang <br />
+  *Electronics Letters, 2019, 55(6): 314-316*.
 
 ### ✏️ Label Distribution Learning
 - [Label information bottleneck for label enhancement](https://arxiv.org/abs/2303.06836/),<br />
