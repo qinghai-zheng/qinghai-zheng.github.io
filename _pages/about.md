@@ -16,7 +16,7 @@ I graduated from the [School of Software Engineering](https://se.xjtu.edu.cn/) o
 
 I am now working on ***Unsupervised Multi-view Learning*** and ***Label Distribution Learning***. Regarding the first topic, I dedicate the majority of my time to <font color="red">Tensor-based Multi-view Learning</font>, mostly on clustering (for a specific task) and unified representation learning (for general tasks). Another main focus of mine is <font color="red">Label Enhancement</font>, we have introduced several interesting and promising label enhancement methods, which can obtain label distributions from logical multi-labels. 
 
-I have published 30+ papers <a href='https://scholar.google.com/citations?user=GoV2wB0AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fqinghai-zheng%2Fqinghai-zheng.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences and journals, such as CVPR, AAAI, ACM MM, IEEE TKDE, IEEE TNNLS, and IEEE TCSVT. I also serve as a reviewer for top conferences and journals, including CVPR, AAAI, NeurIPS, IJCAI, ACM MM, IEEE TPAMI, IEEE TIP, IEEE TKDE, IEEE TCSVT, and IEEE TBD.
+I have published 40+ papers <a href='https://scholar.google.com/citations?user=GoV2wB0AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fqinghai-zheng%2Fqinghai-zheng.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences and journals, such as CVPR, AAAI, ACM MM, IEEE TKDE, IEEE TNNLS, IEEE TCSVT, and IEEE TITS. I also serve as a reviewer for top conferences and journals, including CVPR, AAAI, NeurIPS, IJCAI, ACM MM, IEEE TPAMI, IEEE TIP, IEEE TKDE, IEEE TCSVT, and IEEE TBD.
 
 If you are seeking any form of ***academic cooperation***, please feel free to email me at [zhengqinghai@fzu.edu.cn](mailto:zhengqinghai@fzu.edu.cn). 
 
@@ -246,7 +246,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 - [Multi-level query interaction for temporal language grounding](https://ieeexplore.ieee.org/abstract/document/9543470/),<br />
   Haoyu Tang, Jihua Zhu✉, Lin Wang, **Qinghai Zheng**, Tianwei Zhang <br />
-  *IEEE Transactions on Intelligent Transportation Systems, 2022, 23(12): 25479-25488*. (CCF C).
+  *IEEE Transactions on Intelligent Transportation Systems, 2022, 23(12): 25479-25488*. (CCF B).
 
 # 🎖 Honors and Fundings
 - 2023.08, Funded by the National Natural Science Foundation of China (62306074). 
