@@ -96,19 +96,19 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 - [Partially multi-view clustering via re-alignment](https://www.sciencedirect.com/science/article/abs/pii/S089360802400813X),<br />
   Wenbiao Yan, Jihua Zhu✉, Jinqian Chen, Haozhe Cheng, Shunshun Bai, Liang Duan, **Qinghai Zheng** <br />
-  *Neural Networks, 2025, 182: 106884. (CCF B).
+  *Neural Networks, 2025, 182: 106884*. (CCF B).
 
 - [Relationship completion for incomplete multi-view clustering](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006719),<br />
   Minghong Wu, Jihua Zhu✉, Wenbiao Yan, Bin Chen, **Qinghai Zheng** <br />
-  *Neural Networks, 2025, 191: 107791. (CCF B).
+  *Neural Networks, 2025, 191: 107791*. (CCF B).
 
 - [Graph-guided imputation-free incomplete multi-view clustering](https://www.sciencedirect.com/science/article/pii/S0957417424020323),<br />
   Shunshun Bai, **Qinghai Zheng**, Xiaojin Ren, Jihua Zhu✉ <br />
-  *Expert Systems with Applications, 2024, 258: 125165. (CCF C).
+  *Expert Systems with Applications, 2024, 258: 125165*. (CCF C).
 
 - [Mcoco: multi-level consistency collaborative multi-view clustering](https://www.sciencedirect.com/science/article/pii/S0957417423024788),<br />
   Yiyang Zhou, **Qinghai Zheng**, Yifei Wang, Wenbiao Yan, Pengcheng Shi, Jihua Zhu✉ <br />
-  *Expert Systems with Applications, 2024, 238: 121976. (CCF C).
+  *Expert Systems with Applications, 2024, 238: 121976*. (CCF C).
 
 - [Multi-view semantic consistency based information bottleneck for clustering](https://www.sciencedirect.com/science/article/abs/pii/S0950705124000832),<br />
   Wenbiao Yan, Yiyang Zhou, Yifei Wang, **Qinghai Zheng**, Jihua Zhu✉ <br />
