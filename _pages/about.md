@@ -78,6 +78,10 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   Wenbiao Yan, Jihua Zhu✉, Yiyang Zhou, Jinqian Chen, Haozhe Cheng, Kun Yue, **Qinghai Zheng** <br />
   *IEEE Transactions on Neural Networks and Learning Systems, 2025, 35(8): 15374-15384*. (CCF B).
 
+- [Graph variational multi-View clustering](https://ieeexplore.ieee.org/document/11006709/),<br />
+  Wenbiao Yan, Jihua Zhu✉, Jinqian Chen, Haozhe Cheng, **Qinghai Zheng** <br />
+  *IEEE Transactions on Circuits and Systems for Video Technology, 2025, 35(10): 9804-9808*. (CCF B).
+
 - [Geometry-aware triplane diffusion for single shape generation with feature alignment](https://www.sciencedirect.com/science/article/pii/S0097849325002250),<br />
   Hongliang Weng, **Qinghai Zheng**, Yuanlong Yu, Yixin Zhuang✉ <br />
   *Computers and Graphics, 2025: 104384*. (IF=2.8)
