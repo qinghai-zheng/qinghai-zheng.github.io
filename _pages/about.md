@@ -56,9 +56,17 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   **Qinghai Zheng**, Jihua Zhu✉, Yuanlong Yu✉, Haoyu Tang <br />
   *IEEE Transactions on Knowledge and Data Engineering, 2025 (Accepted)*. (CCF A). \| [\[code\]](https://github.com/qinghai-zheng/TGL)
 
+- [Label distribution-driven multi-view representation learning](https://www.sciencedirect.com/science/article/pii/S1566253524005050),<br />
+  Wenbiao Yan, Minghong Wu, Yiyang Zhou, **Qinghai Zheng**, Jinqian Chen, Haozhe Cheng, Jihua Zhu✉ <br />
+  *Information Fusion, 2025, 115: 102727*. (IF=15.5).
+
 - [Neighbor-based completion for addressing incomplete multi-view clustering](https://ieeexplore.ieee.org/abstract/document/10925219),<br />
   Wenbiao Yan, Jihua Zhu✉, Yiyang Zhou, Jinqian Chen, Haozhe Cheng, Kun Yue, **Qinghai Zheng** <br />
-  *IEEE Transactions on Neural Networks and Learning Systems, 2025, 35(8): 15374-15384*. (CCF B). 
+  *IEEE Transactions on Neural Networks and Learning Systems, 2025, 35(8): 15374-15384*. (CCF B).
+
+- [Geometry-aware triplane diffusion for single shape generation with feature alignment](https://www.sciencedirect.com/science/article/pii/S0097849325002250),<br />
+  Hongliang Weng, **Qinghai Zheng**, Yuanlong Yu, Yixin Zhuang✉ <br />
+  *Computers and Graphics, 2025: 104384*. (IF=2.8)
 
 - [Trusted cross-view completion for incomplete multi-view classification](https://www.sciencedirect.com/science/article/abs/pii/S0925231225003947),<br />
   Liping Zhou, Shiyun Chen, Peihuan Song, **Qinghai Zheng**✉, Yuanlong Yu <br />
@@ -75,6 +83,10 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 - [Partially multi-view clustering via re-alignment](https://www.sciencedirect.com/science/article/abs/pii/S089360802400813X),<br />
   Wenbiao Yan, Jihua Zhu✉, Jinqian Chen, Haozhe Cheng, Shunshun Bai, Liang Duan, **Qinghai Zheng** <br />
   *Neural Networks, 2025, 182: 106884. (CCF B).
+
+- [Relationship completion for incomplete multi-view clustering](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006719),<br />
+  Minghong Wu, Jihua Zhu✉, Wenbiao Yan, Bin Chen, **Qinghai Zheng** <br />
+  *Neural Networks, 2025, 191: 107791. (CCF B).
 
 - [Graph-guided imputation-free incomplete multi-view clustering](https://www.sciencedirect.com/science/article/pii/S0957417424020323),<br />
   Shunshun Bai, **Qinghai Zheng**, Xiaojin Ren, Jihua Zhu✉ <br />
@@ -197,6 +209,18 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 - [Towards stable and storage-efficient dataset distillation: Matching convexified trajectory](https://openaccess.thecvf.com/content/CVPR2025/html/Zhong_Towards_Stable_and_Storage-efficient_Dataset_Distillation_Matching_Convexified_Trajectory_CVPR_2025_paper.html),<br />
   Wenliang Zhong, Haoyu Tang✉, **Qinghai Zheng**, Mingzhu Xu, Yupeng Hu, Weili Guan <br />
   *IEEE Conference on Computer Vision and Pattern Recognition, 2025: 25581-25589*. (CCF A).
+
+- [Boundary-aware temporal dynamic pseudo-supervision pairs generation for zero-shot natural language video localization](https://ojs.aaai.org/index.php/AAAI/article/view/32276),<br />
+  Xiongwen Deng, Haoyu Tang✉, Han Jiang, **Qinghai Zheng**, Jihua Zhu <br />
+  *Proceedings of the AAAI Conference on Artificial Intelligence, 2025. 33(3): 2717-2725*. (CCF A).
+
+- [Face: a dual-template and adaptive curriculum framework for unsupervised text-based person search](https://dl.acm.org/doi/abs/10.1145/3746027.3755315),<br />
+  Xiaoxuan Mu, Haoyu Tang✉, Han Jiang, Tianyuan Liang, **Qinghai Zheng**, Jihua Zhu  <br />
+  *Proceedings of ACM International Conference on Multimedia, 2025: 4107-4116*. (CCF A).
+
+- [Watch your head: Assembling projection heads to save the reliability of federated models](https://ojs.aaai.org/index.php/AAAI/article/view/29012),<br />
+  Jinqian Chen, Jihua Zhu✉, **Qinghai Zheng**, Zhongyu Li, Zhiqiang Tian <br />
+  *Proceedings of the AAAI Conference on Artificial Intelligence, 2024. 38(10): 11329-11337*. (CCF A).
 
 - [Listen as you wish: fusion of audio and text for cross-modal event detection in smart cities](https://www.sciencedirect.com/science/article/abs/pii/S1566253524002380),<br />
   Haoyu Tang, Yupeng Hu✉, Yunxiao Wang, Shuaike Zhang, Mingzhu Xu, Jihua Zhu, **Qinghai Zheng** <br />
