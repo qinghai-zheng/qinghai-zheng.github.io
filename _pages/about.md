@@ -150,6 +150,10 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   *Proceedings of the AAAI Conference on Artificial Intelligence, 2021, 34(04): 5932-5939*. (CCF A).
 
 ### ✏️ Multimedia Retrieval and Federated Learning
+- [Listen as you wish: fusion of audio and text for cross-modal event detection in smart cities](https://www.sciencedirect.com/science/article/abs/pii/S1566253524002380),<br />
+  Haoyu Tang, Yupeng Hu✉, Yunxiao Wang, Shuaike Zhang, Mingzhu Xu, Jihua Zhu, **Qinghai Zheng** <br />
+  *Information Fusion, 2024, 110: 102460*. (IF=15.5).
+
 - [Multi-level query interaction for temporal language grounding](https://ieeexplore.ieee.org/abstract/document/9543470/),<br />
   Haoyu Tang, Jihua Zhu✉, Lin Wang, **Qinghai Zheng**, Tianwei Zhang <br />
   *IEEE Transactions on Intelligent Transportation Systems, 2022, 23(12): 25479-25488*. (CCF C).
