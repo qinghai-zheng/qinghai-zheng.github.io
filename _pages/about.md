@@ -73,7 +73,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   *Expert Systems with Applications, 2024, 238: 121976. (CCF C).
 
 - [Multi-view semantic consistency based information bottleneck for clustering](https://www.sciencedirect.com/science/article/abs/pii/S0950705124000832),<br />
-  Wenbiao Yan, Yiyang Zhou, Yifei Wang, **Qinghai Zheng**, Jihua Zhu✉ <br />    
+  Wenbiao Yan, Yiyang Zhou, Yifei Wang, **Qinghai Zheng**, Jihua Zhu✉ <br />
   *Knowledge-Based Systems, 2024, 288: 111448*. (CCF C).
   
 - [Twin reciprocal completion for incomplete multi-view clustering](https://ieeexplore.ieee.org/document/10621637/),<br />
@@ -93,7 +93,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   *Knowledge-Based Systems, 2024, 284: 111271*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/DV-MSC/)
 
 - [Semantically consistent multi-view representation learning](https://www.sciencedirect.com/science/article/abs/pii/S0950705124000832),<br />
-  Yiyang Zhou, **Qinghai Zheng**, Shunshun Bai, Jihua Zhu✉  <br />    
+  Yiyang Zhou, **Qinghai Zheng**, Shunshun Bai, Jihua Zhu✉  <br />
   *Knowledge-Based Systems, 2023, 278: 110899*. (CCF C).
 
 - [Graph-guided unsupervised multi-view representation learning](https://ieeexplore.ieee.org/abstract/document/9863860/),<br />
@@ -142,7 +142,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   *IEEE Transactions on Knowledge and Data Engineering, 2023, 35(1): 482-495*. (CCF A). \| [\[code\]](https://github.com/qinghai-zheng/gLESC/)
 
 - [Bidirectional loss function for label enhancement and distribution learning](https://www.sciencedirect.com/science/article/pii/S0950705120308194),<br />
-  Xinyuan Liu, Jihua Zhu✉, **Qinghai Zheng**, Zhongyu Li, Ruixin Liu, Jun Wang <br />    
+  Xinyuan Liu, Jihua Zhu✉, **Qinghai Zheng**, Zhongyu Li, Ruixin Liu, Jun Wang <br />
   *Knowledge-Based Systems, 2021, 213: 106690*. (CCF C).
 
 - [Label enhancement with sample correlations via low-rank representation](https://ojs.aaai.org/index.php/AAAI/article/view/6053),<br />
