@@ -59,7 +59,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   *IEEE Signal Processing Letters, 2025 (Accepted)*. (CCF C). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
 
 - [Pseudo multi-view k-means clustering](https://qinghai-zheng.github.io/),<br />
-  Jinqian_Chen, Jihua Zhu✉, Haoyu Tang, **Qinghai Zheng** <br />
+  Jinqian Chen, Jihua Zhu✉, Haoyu Tang, **Qinghai Zheng** <br />
   *Proceedings of the AAAI Conference on Artificial Intelligence, 2026 (Accepted)*. (CCF A). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
 
 - [Decompose and conquer: compositional reasoning for zero-shot temporal action localization](https://qinghai-zheng.github.io/),<br />
