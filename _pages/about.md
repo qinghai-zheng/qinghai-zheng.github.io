@@ -226,7 +226,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 - [Boundary-aware temporal dynamic pseudo-supervision pairs generation for zero-shot natural language video localization](https://ojs.aaai.org/index.php/AAAI/article/view/32276),<br />
   Xiongwen Deng, Haoyu Tang✉, Han Jiang, **Qinghai Zheng**, Jihua Zhu <br />
-  *Proceedings of the AAAI Conference on Artificial Intelligence, 2025. 33(3): 2717-2725*. (CCF A).
+  *Proceedings of the AAAI Conference on Artificial Intelligence, 2025, 33(3): 2717-2725*. (CCF A).
 
 - [Face: a dual-template and adaptive curriculum framework for unsupervised text-based person search](https://dl.acm.org/doi/abs/10.1145/3746027.3755315),<br />
   Xiaoxuan Mu, Haoyu Tang✉, Han Jiang, Tianyuan Liang, **Qinghai Zheng**, Jihua Zhu  <br />
