@@ -56,6 +56,10 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   **Qinghai Zheng**, Jihua Zhu✉, Yuanlong Yu✉, Haoyu Tang <br />
   *IEEE Transactions on Knowledge and Data Engineering, 2025 (Accepted)*. (CCF A). \| [\[code\]](https://github.com/qinghai-zheng/TGL)
 
+- [Neighbor-based completion for addressing incomplete multi-view clustering](https://ieeexplore.ieee.org/abstract/document/10925219),<br />
+  Wenbiao Yan, Jihua Zhu✉, Yiyang Zhou, Jinqian Chen, Haozhe Cheng, Kun Yue, **Qinghai Zheng** <br />
+  *IEEE Transactions on Neural Networks and Learning Systems, 2025, 35(8): 15374-15384*. (CCF B). 
+
 - [Trusted cross-view completion for incomplete multi-view classification](https://www.sciencedirect.com/science/article/abs/pii/S0925231225003947),<br />
   Liping Zhou, Shiyun Chen, Peihuan Song, **Qinghai Zheng**✉, Yuanlong Yu <br />
   *Neurocomputing, 2025, 629: 129722*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/TCVC/)
@@ -68,6 +72,10 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   Zhijie Huang, Binqiang Huang, **Qinghai Zheng**✉, Yuanlong Yu <br />
   *IEEE Signal Processing Letters, 2025, 32: 621-625*. (CCF C). \| [\[code\]](https://github.com/qinghai-zheng/CFMVC/)
 
+- [Partially multi-view clustering via re-alignment](https://www.sciencedirect.com/science/article/abs/pii/S089360802400813X),<br />
+  Wenbiao Yan, Jihua Zhu✉, Jinqian Chen, Haozhe Cheng, Shunshun Bai, Liang Duan, **Qinghai Zheng** <br />
+  *Neural Networks, 2025, 182: 106884. (CCF B).
+
 - [Graph-guided imputation-free incomplete multi-view clustering](https://www.sciencedirect.com/science/article/pii/S0957417424020323),<br />
   Shunshun Bai, **Qinghai Zheng**, Xiaojin Ren, Jihua Zhu✉ <br />
   *Expert Systems with Applications, 2024, 258: 125165. (CCF C).
@@ -79,6 +87,10 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 - [Multi-view semantic consistency based information bottleneck for clustering](https://www.sciencedirect.com/science/article/abs/pii/S0950705124000832),<br />
   Wenbiao Yan, Yiyang Zhou, Yifei Wang, **Qinghai Zheng**, Jihua Zhu✉ <br />
   *Knowledge-Based Systems, 2024, 288: 111448*. (CCF C).
+
+- [Multi-view representation learning with dual-label collaborative guidance](https://www.sciencedirect.com/science/article/abs/pii/S0950705124013145),<br />
+  Bin Chen, Xiaojin Ren, Shunshun Bai, Ziyuan Chen, **Qinghai Zheng**, Jihua Zhu ✉ <br />
+  *Knowledge-Based Systems, 2024, 305: 112680*. (CCF C).
 
 - [Graph-driven deep multi-View clustering with self-paced learning](https://www.sciencedirect.com/science/article/abs/pii/S0950705124005057),<br />
   Shunshun Bai, Xiaojin Ren, **Qinghai Zheng**, Jihua Zhu✉ <br />
