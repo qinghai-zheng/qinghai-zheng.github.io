@@ -120,6 +120,14 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   **Qinghai Zheng**, Jihua Zhu✉ <br />
   *Computers and Electrical Engineering, 2022, 100: 107939*. (IF=4.2). \| [\[code\]](https://github.com/qinghai-zheng/MSCVC/)
 
+- [Essential multi-view graph learning for clustering](https://link.springer.com/article/10.1007/s12652-021-03002-5),<br />
+  Shuangxun Ma, **Qinghai Zheng**, Yuehu Liu✉ <br />
+  *Journal of Ambient Intelligence and Humanized Computing, 2022, 13(11): 5225-5236*. (CCF C).
+
+- [Orthogonal multi-view tensor-based learning for clustering](https://www.sciencedirect.com/science/article/pii/S0925231222006531),<br />
+  Shuangxun Ma, Yuehu Liu✉, Guangcan Liu, **Qinghai Zheng**, Chi Zhang <br />
+  *Neurocomputing, 2021, 500: 592-603*. (CCF C).
+
 - [Multiview spectral clustering via complementary information](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.5701),<br />
   Shuangxun Ma, Yuehu Liu✉, **Qinghai Zheng**, Yaochen Li, Zhichao Cui <br />
   *Concurrency and Computation: Practice and Experience, 2021, 33(15): e5701*. (CCF C).
@@ -149,6 +157,10 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   *Electronics Letters, 2019, 55(6): 314-316*.
 
 ### ✏️ Label Distribution Learning
+- [Causal label enhancement](https://ieeexplore.ieee.org/abstract/document/10783090/),<br />
+  Xinyuan Liu, Jihua Zhu✉, Kun Yue, **Qinghai Zheng**, Zhongyu Li, Zhiqiang Tian, Mingchen Zhu <br />
+  *IEEE Transactions on Knowledge and Data Engineering, 2025, 37(7): 3933-3946*. (CCF A). 
+
 - [Label information bottleneck for label enhancement](https://arxiv.org/abs/2303.06836/),<br />
   **Qinghai Zheng**, Jihua Zhu✉, Haoyu Tang <br />
   *IEEE Conference on Computer Vision and Pattern Recognition, 2023: 7497-7506*. (CCF A). \| [\[code\]](https://github.com/qinghai-zheng/LIBLE/)
@@ -156,6 +168,10 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 - [Generalized label enhancement with sample correlations](https://ieeexplore.ieee.org/abstract/document/9404874/),<br />
   **Qinghai Zheng**, Jihua Zhu✉, Haoyu Tang, Xinyuan Liu, Zhongyu Li, Huimin Lu <br />
   *IEEE Transactions on Knowledge and Data Engineering, 2023, 35(1): 482-495*. (CCF A). \| [\[code\]](https://github.com/qinghai-zheng/gLESC/)
+
+- [Semi-supervised label distribution learning with co-regularization](https://www.sciencedirect.com/science/article/pii/S0925231222003368),<br />
+  Xinyuan Liu, Jihua Zhu✉, **Qinghai Zheng**, Zhiqiang Tian, Zhongyu Li <br />
+  *Neurocomputing, 2022, 491: 353-364*. (CCF C). 
 
 - [Bidirectional loss function for label enhancement and distribution learning](https://www.sciencedirect.com/science/article/pii/S0950705120308194),<br />
   Xinyuan Liu, Jihua Zhu✉, **Qinghai Zheng**, Zhongyu Li, Ruixin Liu, Jun Wang <br />
@@ -166,9 +182,17 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
   *Proceedings of the AAAI Conference on Artificial Intelligence, 2021, 34(04): 5932-5939*. (CCF A).
 
 ### ✏️ Multimedia Retrieval and Federated Learning
+- [Towards stable and storage-efficient dataset distillation: Matching convexified trajectory](https://openaccess.thecvf.com/content/CVPR2025/html/Zhong_Towards_Stable_and_Storage-efficient_Dataset_Distillation_Matching_Convexified_Trajectory_CVPR_2025_paper.html),<br />
+  Wenliang Zhong, Haoyu Tang✉, **Qinghai Zheng**, Mingzhu Xu, Yupeng Hu, Weili Guan <br />
+  *IEEE Conference on Computer Vision and Pattern Recognition, 2025: 25581-25589*. (CCF A).
+
 - [Listen as you wish: fusion of audio and text for cross-modal event detection in smart cities](https://www.sciencedirect.com/science/article/abs/pii/S1566253524002380),<br />
   Haoyu Tang, Yupeng Hu✉, Yunxiao Wang, Shuaike Zhang, Mingzhu Xu, Jihua Zhu, **Qinghai Zheng** <br />
   *Information Fusion, 2024, 110: 102460*. (IF=15.5).
+
+- [Towards fast and stable federated learning: Confronting heterogeneity via knowledge anchor](https://dl.acm.org/doi/abs/10.1145/3581783.3612597),<br />
+  Jinqian Chen, Jihua Zhu✉, **Qinghai Zheng** <br />
+  *Proceedings of ACM International Conference on Multimedia, 2023: 8697-8706*. (CCF A).
 
 - [Multi-level query interaction for temporal language grounding](https://ieeexplore.ieee.org/abstract/document/9543470/),<br />
   Haoyu Tang, Jihua Zhu✉, Lin Wang, **Qinghai Zheng**, Tianwei Zhang <br />
