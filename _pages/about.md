@@ -21,6 +21,8 @@ I have published 30+ papers <a href='https://scholar.google.com/citations?user=G
 If you are seeking any form of ***academic cooperation***, please feel free to email me at [zhengqinghai@fzu.edu.cn](mailto:zhengqinghai@fzu.edu.cn). 
 
 # 🔥 News
+- 2025.11.08: &nbsp;🎉 One paper "MixSCL" is accepted by IEEE SPL (CCF C). Congratulations to Peihuan Song, good work!
+- 2025.11.08: &nbsp;🎉 Two papers are accepted by AAAI (CCF A).
 - 2025.10.19: &nbsp;🎉 The source codes of "TGL" can be found in [TGL](https://github.com/qinghai-zheng/TGL) repository.
 - 2025.10.13: &nbsp;🎉 One paper "TGL" is accepted by IEEE TKDE (CCF A).
 - 2025.02.24: &nbsp;🎉 The source codes of "TCVC-IMC" can be found in [TCVC-IMC](https://github.com/qinghai-zheng/TCVC/) repository.
@@ -52,6 +54,18 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 # 📝 Publications 
 ### ✏️ Representation Learning and Multi-view Learning
+- [Supervised contrastive learning with mixed samples for long-tailed recognition](https://qinghai-zheng.github.io/),<br />
+  Peihuan Song, Luojun Lin, Yuanlong Yu, Wenjie Yang✉, **Qinghai Zheng** <br />
+  *IEEE Signal Processing Letters, 2025 (Accepted)*. (CCF C). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
+
+- [Pseudo multi-view k-means clustering](https://qinghai-zheng.github.io/),<br />
+  Jinqian_Chen, Jihua Zhu✉, Haoyu Tang, **Qinghai Zheng** <br />
+  *Proceedings of the AAAI Conference on Artificial Intelligence, 2026 (Accepted)*. (CCF A). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
+
+- [Decompose and conquer: compositional reasoning for zero-shot temporal action localization](https://qinghai-zheng.github.io/),<br />
+  Haoyu Tang, Tianyuan Liang, Han Jiang, Xuesong Liu, **Qinghai Zheng**, Yupeng Hu✉ <br />
+  *Proceedings of the AAAI Conference on Artificial Intelligence, 2026 (Accepted)*. (CCF A).
+
 - [From one comes two: a tensorized graph learning framework for clustering](https://ieeexplore.ieee.org/abstract/document/11205298),<br />
   **Qinghai Zheng**, Jihua Zhu✉, Yuanlong Yu✉, Haoyu Tang <br />
   *IEEE Transactions on Knowledge and Data Engineering, 2025 (Accepted)*. (CCF A). \| [\[code\]](https://github.com/qinghai-zheng/TGL)
