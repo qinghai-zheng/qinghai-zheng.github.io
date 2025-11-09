@@ -79,6 +79,10 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 - [Multi-view semantic consistency based information bottleneck for clustering](https://www.sciencedirect.com/science/article/abs/pii/S0950705124000832),<br />
   Wenbiao Yan, Yiyang Zhou, Yifei Wang, **Qinghai Zheng**, Jihua Zhu✉ <br />
   *Knowledge-Based Systems, 2024, 288: 111448*. (CCF C).
+
+- [Graph-driven deep multi-View clustering with self-paced learning](https://www.sciencedirect.com/science/article/abs/pii/S0950705124005057),<br />
+  Shunshun Bai, Xiaojin Ren, **Qinghai Zheng**, Jihua Zhu✉ <br />
+  *Knowledge-Based Systems, 2024, 296: 111871*. (CCF C).
   
 - [Twin reciprocal completion for incomplete multi-view clustering](https://ieeexplore.ieee.org/document/10621637/),<br />
   **Qinghai Zheng**, Haoyu Tang✉ <br />
@@ -115,6 +119,10 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 - [Multi-view subspace clustering with view correlations via low-rank tensor learning](https://www.sciencedirect.com/science/article/pii/S0045790622002178),<br />
   **Qinghai Zheng**, Jihua Zhu✉ <br />
   *Computers and Electrical Engineering, 2022, 100: 107939*. (IF=4.2). \| [\[code\]](https://github.com/qinghai-zheng/MSCVC/)
+
+- [Multiview spectral clustering via complementary information](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.5701),<br />
+  Shuangxun Ma, Yuehu Liu✉, **Qinghai Zheng**, Yaochen Li, Zhichao Cui <br />
+  *Concurrency and Computation: Practice and Experience, 2021, 33(15): e5701*. (CCF C).
 
 - [Collaborative unsupervised multi-view representation learning](https://ieeexplore.ieee.org/abstract/document/9610083/),<br />
   **Qinghai Zheng**, Jihua Zhu✉, Zhongyu Li <br />
