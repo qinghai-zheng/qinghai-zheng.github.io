@@ -54,7 +54,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 # 📝 Publications 
 ### ✏️ Representation Learning and Multi-view Learning
-- [Supervised contrastive learning with mixed samples for long-tailed recognition](https://qinghai-zheng.github.io/),<br />
+- [Supervised contrastive learning with mixed samples for long-tailed recognition](https://ieeexplore.ieee.org/document/11244375),<br />
   Peihuan Song, Luojun Lin, Yuanlong Yu, Wenjie Yang✉, **Qinghai Zheng** <br />
   *IEEE Signal Processing Letters, 2025 (Accepted)*. (CCF C). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
 
