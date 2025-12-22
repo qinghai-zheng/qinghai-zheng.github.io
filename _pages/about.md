@@ -21,6 +21,7 @@ I have published 40+ papers <a href='https://scholar.google.com/citations?user=G
 If you are seeking any form of ***academic cooperation***, please feel free to email me at [zhengqinghai@fzu.edu.cn](mailto:zhengqinghai@fzu.edu.cn). 
 
 # 🔥 News
+- 2025.12.22: &nbsp;🎉 One paper "ERTN-MSC" is accepted by IEEE TNNLS (CCF B).
 - 2025.11.08: &nbsp;🎉 One paper "MixSCL" is accepted by IEEE SPL (CCF C). Congratulations to Peihuan Song, good work!
 - 2025.11.08: &nbsp;🎉 Two papers are accepted by AAAI (CCF A).
 - 2025.10.19: &nbsp;🎉 The source codes of "TGL" can be found in [TGL](https://github.com/qinghai-zheng/TGL) repository.
@@ -54,9 +55,13 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 # 📝 Publications 
 ### ✏️ Representation Learning and Multi-view Learning
+- [Enhanced residual tensor norm minimization for multi-view subspace clustering](https://qinghai-zheng.github.io/),<br />
+  **Qinghai Zheng** <br />
+  *IEEE Transactions on Neural Networks and Learning Systems, 2025 (Accepted)*. (CCF B). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
+
 - [Supervised contrastive learning with mixed samples for long-tailed recognition](https://ieeexplore.ieee.org/document/11244375),<br />
   Peihuan Song, Luojun Lin, Yuanlong Yu, Wenjie Yang✉, **Qinghai Zheng** <br />
-  *IEEE Signal Processing Letters, 2025 (Accepted)*. (CCF C). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
+  *IEEE Signal Processing Letters, 2025, 32: 4394-4398*. (CCF C). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
 
 - [Pseudo multi-view k-means clustering](https://qinghai-zheng.github.io/),<br />
   Jinqian Chen, Jihua Zhu✉, Haoyu Tang, **Qinghai Zheng** <br />
