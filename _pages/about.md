@@ -55,9 +55,13 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 # 📝 Publications 
 ### ✏️ Representation Learning and Multi-view Learning
-- [Enhanced residual tensor norm minimization for multi-view subspace clustering](https://qinghai-zheng.github.io/),<br />
+- [Enhanced residual tensor norm minimization for multi-view subspace clustering](https://ieeexplore.ieee.org/document/11319545),<br />
   **Qinghai Zheng** <br />
   *IEEE Transactions on Neural Networks and Learning Systems, 2025 (Accepted)*. (CCF B). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
+
+- [Multi-view anchor subspace clustering via consensus-specific reconstruction](https://www.sciencedirect.com/science/article/abs/pii/S1566253525010528),<br />
+  Xiaojin Ren, Jihua Zhu✉, Wenbiao Yan, Shunshun Bai, Ren Guan, Bin Chen, Ziyuan Chen, **Qinghai Zheng** <br />
+  *Information Fusion, 2026, 129: 103990*. (IF=15.5).
 
 - [Supervised contrastive learning with mixed samples for long-tailed recognition](https://ieeexplore.ieee.org/document/11244375),<br />
   Peihuan Song, Luojun Lin, Yuanlong Yu, Wenjie Yang✉, **Qinghai Zheng** <br />
@@ -205,7 +209,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 ### ✏️ Label Distribution Learning
 - [Causal label enhancement](https://ieeexplore.ieee.org/abstract/document/10783090/),<br />
-  Xinyuan Liu, Jihua Zhu✉, Kun Yue, **Qinghai Zheng**, Zhongyu Li, Zhiqiang Tian, Mingchen Zhu <br />
+  Xinyuan Liu, Jihua Zhu✉, **Qinghai Zheng**, Zhongyu Li, Zhiqiang Tian, Mingchen Zhu <br />
   *IEEE Transactions on Knowledge and Data Engineering, 2025, 37(7): 3933-3946*. (CCF A). 
 
 - [Label information bottleneck for label enhancement](https://arxiv.org/abs/2303.06836/),<br />
