@@ -21,6 +21,8 @@ I have published 40+ papers <a href='https://scholar.google.com/citations?user=G
 If you are seeking any form of ***academic cooperation***, please feel free to email me at [zhengqinghai@fzu.edu.cn](mailto:zhengqinghai@fzu.edu.cn). 
 
 # 🔥 News
+- 2026.02.31: &nbsp;🎉 One paper "CAAR" is accepted by IEEE SPL (CCF C). Congratulations to Gaojie Song, Fumiao Wang, and Gaowen Jie, good work!
+### 2024 
 - 2025.12.22: &nbsp;🎉 One paper "ERTN-MSC" is accepted by IEEE TNNLS (CCF B).
 - 2025.11.08: &nbsp;🎉 One paper "MixSCL" is accepted by IEEE SPL (CCF C). Congratulations to Peihuan Song, good work!
 - 2025.11.08: &nbsp;🎉 Two papers are accepted by AAAI (CCF A).
@@ -55,6 +57,10 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 # 📝 Publications 
 ### ✏️ Representation Learning and Multi-view Learning
+- [Multi-view clustering via cross-view alignment and anchor-guided representation](https://ieeexplore.ieee.org/document/11244375),<br />
+  Gaojie Song, Fumiao Wang, Gaowen Jie, Yuanlong Yu, **Qinghai Zheng**✉ <br />
+  *IEEE Signal Processing Letters, 2026  (Accepted)*. (CCF C). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
+
 - [Enhanced residual tensor norm minimization for multi-view subspace clustering](https://ieeexplore.ieee.org/document/11319545),<br />
   **Qinghai Zheng** <br />
   *IEEE Transactions on Neural Networks and Learning Systems, 2025 (Accepted)*. (CCF B). \| [\[code (coming soon)\]](https://qinghai-zheng.github.io/)
