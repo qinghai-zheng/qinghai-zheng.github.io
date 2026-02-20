@@ -22,7 +22,7 @@ If you are seeking any form of ***academic cooperation***, please feel free to e
 
 # 🔥 News
 - 2026.02.31: &nbsp;🎉 One paper "CAAR" is accepted by IEEE SPL (CCF C). Congratulations to Gaojie Song, Fumiao Wang, and Gaowen Jie, good work!
-### 2024 
+### 2025 
 - 2025.12.22: &nbsp;🎉 One paper "ERTN-MSC" is accepted by IEEE TNNLS (CCF B).
 - 2025.11.08: &nbsp;🎉 One paper "MixSCL" is accepted by IEEE SPL (CCF C). Congratulations to Peihuan Song, good work!
 - 2025.11.08: &nbsp;🎉 Two papers are accepted by AAAI (CCF A).
